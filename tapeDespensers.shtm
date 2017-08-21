@@ -1,0 +1,128 @@
+﻿<!--**********************************************************************
+*   Filename: tapeDespensers.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 05 Jul 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Tape Dispensers Compact</td></tr>
+    <tr>
+        <td align="center" valign="top"><img src="images/companyContent/tapeDespensers/image001.jpg" alt="Tape Despensers" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+         <p>&nbsp;&nbsp;&nbsp;<b>Features:</b></p>
+         <ul>
+            <li>Designed for industrial or commercial use</li>
+            <li>Presents a piece of tape cut to your precise length</li>
+            <li>Reduces operator fatigue while increasing productivity</li>
+            <li>Small size makes it easy to accommodate on tde workbench or assembly station (4.5" x 5.5" x 8.5")</li>
+            <li>Accurately cuts most types of tape or film and has an adjustment to control curling</li>
+            <li>Choose from four dispensing modes: Automatic, Manual, Preset Mode or Loop Mode</li>
+            <li>LED provides machine status</li>
+            <li>Can accomodates multiple rolls of tape if widtd less tdan 20mm</li>
+            <li>Tape materials include: craft, gummed, vinyl, cotton clotd, double face, paper, Kapton, glass clotd, and many otders</li>
+         </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <table class="creekside" width="100%">
+                <tr class="alt">
+                    <th>Part Number</th>
+                    <th>Model</th>
+                    <th>Tape Widtd</th>
+                    <th>Cut Lengtd</th>
+                    <th>Cut Accuracy</th>
+                    <th>Max. Outside Dia. Tape Roll</th>
+
+                </tr>
+                <tr>
+                    <td rowspan="4">66125</td>
+                    <td>EZ-7000</td>
+                    <td>6 to 55 mm<br />1/4 to 2"</td>
+                    <td>5 to 999 mm<br />3/16 to 39"</td>
+                    <td>+/-2 mm<br />+/-.08"</td>
+                    <td>300 mm<br />12"</td>
+
+                </tr>
+                <tr class="alt">
+                    <th>Core Dia. Of Tape Roll</th>
+                    <th>Auto Feed</th>
+                    <th>Weight</th>
+                    <th>Dimensions</th>
+                    <th>Electrical Requirements</th>
+                </tr>
+                <tr>
+                    <td>0"</td>
+                    <td>Yes</td>
+                    <td>2.8 kg<br />6.3 lbs</td>
+                    <td>11.5 x 14.0 x 21.5 cm<br />4.5 x 5.5 x 18.5"</td>
+                    <td>120V 50/60Hz</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;One Series: EZ-8000</td></tr>
+    <tr>
+        <td align="center" valign="top"><img src="images/companyContent/tapeDespensers/image002.jpg" alt="Tape Despensers" /></td>
+    </tr>
+    <tr>
+        <td valign="top" style="padding: 10,10,10,10;">
+         <p>&nbsp;&nbsp;&nbsp;<b>Features:</b></p>
+         <ul>
+            <li>Cuts tape and places it on carousel at the push of a button</li>
+            <li>Provides consistent lengths from 9 mm to 61 mm</li>
+            <li>Bobbin-free design; accomodates any size core </li>
+            <li>Cuts polyimide (Kapton) tape</li>
+            <li>Easy to adjust tape length and spacing</li>
+            <li>Can accommodate multiple operators</li>
+            <li>Accepts many types of tape, including filament, polyimide, acetate cloth, glass cloth, double-sided, plastic, aluminum foil, cellophane, masking, Normex, copper, cloth, polyethylene, Teflon, paper, craft, OPP and more!</li>
+         </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <table class="creekside" width="100%">
+                <tr class="alt">
+                    <th>Part Number</th>
+                    <th>Model</th>
+                    <th>Tape Widtd</th>
+                    <th>Cut Lengtd</th>
+                    <th>Cut Accuracy</th>
+                    <th>Max. Outside Dia. Tape Roll</th>
+
+                </tr>
+                <tr>
+                    <td>66132</td>
+                    <td>EZ-8000</td>
+                    <td>3 to 25 mm<br />.12" to .984"</td>
+                    <td>9 to 61 mm<br />.354" to 2.402"</td>
+                    <td>+/-2 mm<br />+/-.08"</td>
+                    <td>150 mm<br />5.90"</td>
+
+                </tr>
+                <tr class="alt">
+                    <th>Length Setting</th>
+                    <th>Core Dia. Of Tape Roll</th>
+                    <th>Auto Feed</th>
+                    <th>Weight</th>
+                    <th>Dimensions</th>
+                    <th>Electrical Requirements</th>
+                </tr>
+                <tr>
+                    <td>Mechanical</td>
+                    <td>NA*</td>
+                    <td>Yes</td>
+                    <td>2.12 Kg<br />15.4 oz</td>
+                    <td>250 x 150 x 120 mm<br />9.84 x 5.90 x 4.72</td>
+                    <td>120V</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

@@ -1,0 +1,53 @@
+﻿<!--**********************************************************************
+*   Filename: chemicals.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 09 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Sterile Chemical Manufacturing</td></tr>
+    <tr>
+        <td valign="top"><img src="images/companyContent/defcon/image002.jpg" alt="defcon" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+         <p><b>DECON-AHOL Sterile WFI Formula</b> has been developed to address the reduction of possible endotoxin levels that may exist in the use of a 70% sterile Isopropyl alcohol solution.  VAI knew that just formulating 99% isopropyl alcohol with USP Water for Injection (WFI) without the concern for the reduction of endotoxin levels throughout the entire manufacturing process would net an unacceptable final product.  Therefore, after years of development VAI has assured not only the formulation of the product with USP Water for Injection but also designed a system to assure a closed system manufacturer of the product.  VAI has assured the lowest possible endotoxin level making it an excellent choice for the critical Class 1000 aseptic manufacturing operation.</p>
+         <p><b>DECON-AHOL WFI Formula</b> is:</p>
+         <ul>
+            <li>70% USP Isopropyl Alcohol</li>
+            <li>Filtered at 0.2 Microns</li>
+            <li>Double-bagged packaged</li>
+            <li>Gamma irradiated</li>
+            <li>Completely tested according to current USP compendium</li>
+            <li>Delivered with lot specific Certificate of Irradiation, Certificate of Analysis, LAL Testing Analysis and Sterility Report</li>
+            <li>Completely traceable</li>
+            <li>Completely validated for sterility and shelf life</li>
+         </ul>
+         <p>Uses: <b>DECON-AHOL WFI Sterile Formula</b> is used for the decontamination of items such as:</p>
+         <ul>
+            <li>Gloves</li>
+            <li>Surfaces</li>
+            <li>Carts</li>
+            <li>Countertops</li>
+            <li>Process lines</li>
+            <li>Applications that require a sterile alcohol solution made with USP Water for Injection</li>
+         </ul>
+         <br />
+         <table width="100%">
+            <tr class="alt">
+                <td><b>Order #</b></td>
+                <td><b>Description</b></td>
+                <td><b>Case</b></td>
+                <td><b>Price</b></td>
+            </tr>
+            <tr>
+                <td>DECWFI-SP-70</td>
+                <td>DECON-AHOL WFI 11 oz. Sterile 70% USP Isopropyl Alcohol Aerosol Mist</td>
+                <td>24</td>
+                <td>$303.00 Case</td>
+            </tr>
+         </table>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

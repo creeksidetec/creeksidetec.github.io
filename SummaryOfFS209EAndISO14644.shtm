@@ -1,0 +1,79 @@
+<!--**********************************************************************
+*   Filename: CleaningProcedures-1000-100000.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 25 Sep 2006
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table border="0" width="650px" align="center">
+    <tr>
+        <td align="left">
+            <h3>Summary of FS 209E and ISO 14644-1 and ISO 14644-2</h3>
+            <p>The cleanliness classification levels defined by FS209E and ISO 14644-1 are approximately equal, except the new ISO standard uses new class designations, a metric measure of air volume and adds three additional classes - two cleaner than Class 10 and one beyond than Class 100,000. The second new ISO standard, ISO 14644-2, gives requirements for monitoring a clean-room or clean zone to provide evidence of its continued compliance with ISO 14644-1.</p>
+            <p>The following table compares FED STD 209E to the new ISO 14644-1 classifications.</p>
+            <div style="width: 100%">
+                <table class="creekside" align="left" width="350px">
+                    <tr class="header"><td colspan="3">&nbsp;&nbsp;&nbsp;Airborne Particulate Cleanliness Class Comparison</td></tr>
+                    <tr><td>ISO 14644-1</td><td colspan="2">FED STD 209E</td></tr>
+                    <tr class="alt"><td>ISO Class</td><td>English</td><td>Metric</td></tr>
+                    <tr><td>1</td><td></td><td></td></tr>
+                    <tr><td>2</td><td></td><td></td></tr>
+                    <tr><td>3</td><td>1</td><td>M1.5</td></tr>
+                    <tr><td>4</td><td>10</td><td>M2.5</td></tr>
+                    <tr><td>5</td><td>100</td><td>M3.5</td></tr>
+                    <tr><td>6</td><td>1,00</td><td>M4.5</td></tr>
+                    <tr><td>7</td><td>10,000</td><td>M5.5</td></tr>
+                    <tr><td>8</td><td>100,000</td><td>M6.5</td></tr>
+                    <tr><td>9</td><td></td><td></td></tr>
+                </table>
+            </div>
+            <p>The ISO standard also requires fewer sample locations, especially as the clean-room/area size increases; however, the ISO standard does require minimum one minute samples, whereas the Federal Standard allows shorter samples, especially at smaller particle sizes.</p>
+            <p>For example, to certify an FS Class 10 clean-room (ISO class 4), with 250 square feet (7.08 square meters), classified at 0.3 micron with a 1 cf/m flow rate particle counter, the required number of sample locations, sample volumes, and sample times would be as follows:</p>
+            <p>FS209E requires 10 sample locations, 19.6 liter minimum sample volume (0.85 cf), and a sample time of 51 seconds. This yields a total minimum sample time of 510 seconds and 10 equipment moves.</p>
+            <p>ISO 14644-1 requires 3 sample locations, 19.6 liter minimum sample volume (0.85 cf ), but also a minimum sample time of one minute yielding three samples of one cubic foot. This yields a total sample time of 180 seconds and three equipment moves.</p>
+            <p>The precise count levels required by ISO 14644-1 for each classification, by particle size, are given below.</p>
+            <div style="width: 100%">
+                <table class="creekside" align="left" width="450px">
+                    <tr class="header"><td colspan="7">&nbsp;&nbsp;&nbsp;Airborne Particulate Cleanliness Classes (by cubic meter)</td></tr>
+                    <tr><td colspan="7">Number of Particles per Cubic Meter by Micrometer Size</td></tr>
+                    <tr class="alt"><td>Class</td><td>0.1um</td><td>0.2um</td><td>0.3um</td><td>0.5um</td><td>1um</td><td>5um</td></tr>
+                    <tr><td>ISO 1</td><td>10</td><td>2</td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>ISO 2</td><td>100</td><td>24</td><td>10</td><td>4</td><td></td><td></td></tr>
+                    <tr><td>ISO 3</td><td>1,000</td><td>237</td><td>102</td><td>35</td><td>8</td><td></td></tr>
+                    <tr><td>ISO 4</td><td>10,000</td><td>2,370</td><td>1,020</td><td>352</td><td>83</td><td></td></tr>
+                    <tr><td>ISO 5</td><td>100,000</td><td>23,700</td><td>10,200</td><td>3,520</td><td>832</td><td>29</td></tr>
+                    <tr><td>ISO 6</td><td>1,000,000</td><td>237,000</td><td>102,000</td><td>35,200</td><td>8,320</td><td>293</td></tr>
+                    <tr><td>ISO 7</td><td></td><td></td><td></td><td>352,000</td><td>83,200</td><td>2,930</td></tr>
+                    <tr><td>ISO 8</td><td></td><td></td><td></td><td>3,520,000</td><td>832,000</td><td>29,300</td></tr>
+                    <tr><td>ISO 9</td><td></td><td></td><td></td><td>35,200,000</td><td>8,320,000</td><td>293,000</td></tr>
+                </table>
+            </div>
+            <p>ISO 14644-2 determines the type and frequency of testing required to conform with the standard. The following tables indicate which tests are mandatory and which tests are optional.</p>
+            <div style="width: 100%">
+                <table class="creekside" align="left" width="450px">
+                    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Required Testing (ISO 14644-2)</td></tr>
+                    <tr><td colspan="4">Schedule of Tests to Demonstrate Continuing Compliance</td></tr>
+                    <tr class="alt"><td>Test Parameter</td><td>Class</td><td>Maximum Time Interval</td><td>Test Procedure</td></tr>
+                    <tr><td rowspan="2">Particle Count Test</td><td><= ISO 5</td><td>6 Months</td><td rowspan="2">ISO 14644-1 Annex A</td></tr>
+                    <tr><td>>ISO 5</td><td>12 Months</td></tr>
+                    <tr><td>Air Pressure Difference</td><td>All Classes</td><td>12 Months</td><td>ISO 14644-1 Annex B5</td></tr>
+                    <tr><td>Airflow</td><td>All Classes</td><td>12 Months</td><td>ISO 14644-1 Annex B4</td></tr>
+                </table>
+            </div>
+            <br />
+            <div style="width: 100%">
+                <table class="creekside" align="left" width="450px">
+                    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Optional Testing (ISO 14644-2)</td></tr>
+                    <tr><td colspan="4">Schedule of Additional Optional Tests</td></tr>
+                    <tr class="alt"><td>Test Parameter</td><td>Class</td><td>Maximum Time Interval</td><td>Test Procedure</td></tr>
+                    <tr><td>Installed Filter Leakage</td><td>All Classes</td><td>24 Months</td><td>ISO 14644-3 Annex B6</td></tr>
+                    <tr><td>Containment Leakage</td><td>All Classes</td><td>24 Months</td><td>ISO 14644-3 Annex B4</td></tr>
+                    <tr><td>Recovery</td><td>All Classes</td><td>24 Months</td><td>ISO 14644-3 Annex B13</td></tr>
+                    <tr><td>Airflow Visualization</td><td>All Classes</td><td>24 Months</td><td>ISO 14644-3 Annex B7</td></tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

@@ -1,0 +1,107 @@
+<!--**********************************************************************
+*   Filename: projectGallery.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 09 Nov 2007
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" width="550px" align="center">
+    <tr class="HEADER">
+        <td colspan="2">&nbsp;Cabinets</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><img style="margin: 5 5 5 5;" src="images/projects/cabinets/image001.jpg" /></td>
+    </tr>
+    <tr>
+		<td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cabinets/image002.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cabinets/image003.jpg" /></td>
+    </tr>
+</table>
+<BR /><BR />
+<table class="creekside" width="580px" align="center">
+    <tr class="HEADER">
+        <td colspan="2">&nbsp;Curtains</td>
+    </tr>
+    <tr>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/curtains/image018.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/curtains/image025.jpg" /></td>
+    </tr>
+</table>
+<br /><br />
+<table class="creekside" width="550px" align="center">
+    <tr class="HEADER">
+        <td colspan="2">&nbsp;Benches</td>
+    </tr>
+    <tr>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image013.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image014.jpg" /></td>
+    </tr>
+    <tr class="alt">
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image015.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image016.jpg" /></td>
+    </tr>
+    <tr>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image017.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image023.jpg" /></td>
+    </tr>
+    <tr class="alt">
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image021.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image022.jpg" /></td>
+    </tr>
+    <tr>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image033.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image030.jpg" /></td>
+    </tr>
+    <tr class="alt">
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image031.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/benches/image032.jpg" /></td>
+    </tr>
+</table>
+<br /><br />
+<table class="creekside" width="550px" align="center">
+    <tr class="HEADER">
+        <td colspan="2">&nbsp;Cleanrooms</td>
+    </tr>
+    <tr>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image001.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image002.jpg" /></td>
+    </tr>
+    <tr class="alt">
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image003.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image004.jpg" /></td>
+    </tr>
+    <tr>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image005.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image006.jpg" /></td>
+    </tr>
+    <tr class="alt">
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image007.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image008.jpg" /></td>
+    </tr>
+    <tr>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image009.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image010.jpg" /></td>
+    </tr>
+    <tr class="alt">
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image011.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image012.jpg" /></td>
+    </tr>
+    <tr>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image019.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image024.jpg" /></td>
+    </tr>
+    <tr class="alt">
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image026.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image027.jpg" /></td>
+    </tr>
+    <tr>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image028.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image029.jpg" /></td>
+    </tr>
+    <tr class="alt">
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image034.jpg" /></td>
+        <td align="center"><img style="margin: 5 5 5 5;" src="images/projects/cleanrooms/image035.jpg" /></td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

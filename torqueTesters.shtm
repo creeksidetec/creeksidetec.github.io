@@ -1,0 +1,118 @@
+﻿<!--**********************************************************************
+*   Filename: toolBalancers.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 04 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/ASG/image001.gif" alt="ASG" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="2">&nbsp;&nbsp;&nbsp;Torque Testers Value-Engineered</td></tr>
+    <tr>
+        <td valign="top" style="width: 200px;">
+            <img src="images/companyContent/ASG/image011.jpg" alt="ASG" />
+            <p><b>DTT Torque Tester pictured with Model BL-7000 Driver</b></p>
+        </td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>The new DTT series torque testers feature many new functions while remaining an outstanding value. Portable and easy to use, DTT series testers test all screwdrivers except impact clutches. Five (5) Models Available.</p>
+            <p><h5>Features</h5></p>
+            <ul>
+                <li>Store up to 200 readings in memory with time/date stamp as a standard feature.</li>
+                <li>Simple output / download of data. Includes software and cables to putput to a PC; easily exports to Excel spread sheet for reporting or further manipulation.</li>
+                <li>Has 9 user-selectable torque units for flexibility.</li>
+                <li>Peak, First Peak, and Track measurement modes are user-selectable.</li>
+                <li>Auto Reset Mode can be selected by user. Facilitates use by avoiding manual resetting between readings.</li>
+                <li>Audible Go/No Go feature lets user set a torque range. Unit beeps if reading is within limits selected.</li>
+                <li>Selectable decimal point</li>
+                <li>Comes with certificate of calibration traceable to N.I.S.T.</li>
+                <li>Accuracy is greater than +/- .2% of full scale.</li>
+                <li>Comes complete with carrying case, rechargeable battery, battery charger, driver adaptor and software package.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr class="alt">
+        <td colspan="2" align="center">
+            <img src="images/companyContent/ASG/image012.jpg" alt="ASG" />
+            <br /><b>DTT Torque Tester exporting to PC</b>
+        </td>
+    </tr>
+    <tr class="header"><td colspan="2">&nbsp;&nbsp;&nbsp;Standard Accessories & Options - See Below Following Table</td></tr>
+    <tr>
+        <td align="center" colspan="2">
+        <table class="creekside"><tr><td>
+            <table class="creekside">
+                <tr style="font-weight: bold" class="alt">
+                    <td>Part</td><td></td><td>Measurement</td><td>Supplied with</td><td></td><td>Unit</td><td>User-Selectable</td><td></td><td>Charging</td><td>Lifetime</td>
+                </tr>
+                <tr style="font-weight: bold" class="alt">
+                    <td>No.</td><td>Tester</td><td>Range</td><td>Adaptor Part No.</td><td>Size</td><td>Weight</td><td>Torque Units</td><td>Battery</td><td>Time</td><td>per Charge</td>
+                </tr>
+                <tr>
+                    <td>66600</td><td>DTT-5</td><td>0.025 - 5 lbf.in<br />0.025 - 5 kgf.cm</td><td>66620<br />66612*</td><td>7-1/8" x 4-3/8" x 2"</td><td>4 lbs.</td><td>ozf.in, lbf.in, lbf.ft, gf.cm, kgf.cm, kgf.m, mNm, cN.m, N.m</td><td>1.2V NiMH cell x 6</td><td>4 - 6 hrs</td><td>12 hrs at full charge</td>
+                </tr>
+                <tr class="alt">
+                    <td>66601</td><td>DTT-10</td><td>0.050 - 10 lbf.in<br />0.050 - 10 kgf.cm</td><td>66620<br />66612*</td><td>7-1/8" x 4-3/8" x 2"</td><td>4 lbs.</td><td>ozf.in, lbf.in, lbf.ft, gf.cm, kgf.cm, kgf.m, mNm, cN.m, N.m</td><td>1.2V NiMH cell x 6</td><td>4 - 6 hrs</td><td>12 hrs at full charge</td>
+                </tr>
+                <tr>
+                    <td>66604</td><td>DTT-100</td><td>0.500 - 100.0 lbf.in<br />.5000 - 100.0 kgf.cm</td><td>66612*<br />66618**</td><td>7-1/8" x 4-3/8" x 2"</td><td>4 lbs.</td><td>ozf.in, lbf.in, lbf.ft, gf.cm, kgf.cm, kgf.m, mNm, cN.m, N.m</td><td>1.2V NiMH cell x 6</td><td>4 - 6 hrs</td><td>12 hrs at full charge</td>
+                </tr>
+                <tr class="alt">
+                    <td>66605</td><td>DTT-200</td><td>1.000 - 200.0 lbf.in<br />1.000 - 200.0 kgf.cm</td><td>66612*<br />66618**</td><td>7-1/8" x 4-3/8" x 2"</td><td>4 lbs.</td><td>ozf.in, lbf.in, lbf.ft, gf.cm, kgf.cm, kgf.m, mNm, cN.m, N.m</td><td>1.2V NiMH cell x 6</td><td>4 - 6 hrs</td><td>12 hrs at full charge</td>
+                </tr>
+                <tr>
+                    <td>66606</td><td>DTT-500</td><td>2.500 - 500.0 lbf.in<br />2.500 - 500.0 kgf.cm</td><td>66612*<br />66618**</td><td>7-1/8" x 4-3/8" x 2"</td><td>4 lbs.</td><td>ozf.in, lbf.in, lbf.ft, gf.cm, kgf.cm, kgf.m, mNm, cN.m, N.m</td><td>1.2V NiMH cell x 6</td><td>4 - 6 hrs</td><td>12 hrs at full charge</td>
+                </tr>
+            </table>
+            </td></tr></table>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;HIT Series Testers</td></tr>
+    <tr>
+        <td valign="top" align="center" colspan="2">
+            <img src="images/companyContent/ASG/image013.jpg" alt="ASG" />
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>The HIT Series torque meters measure the torque of impact tools, air drivers and torque wrenches. An audible signal can be set to sound at desired torque level in either peak or first peak mode.</p>
+            <p><b>Other features include:</b></p>
+            <ul>
+                <li>Digital readout in N.m, kgf.cm and lbf.in - selected via a switch.</li>
+                <li>Measures in both directions, clockwise and counterclock-wise.</li>
+                <li>Output to printer or analog device through output terminals.</li>
+                <li>Rechargeable, for ease of portability.</li>
+                <li>Accuracy, +/- 1% of indicated reading plus (+) 1 digit.</li>
+                <li>Available in three (3) models.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <table><tr><td>
+            <table class="creekside">
+                <tr style="font-weight: bold" class="alt">
+                    <td>Part</td><td></td><td>Torque Measurement</td><td></td><td></td><td>Charging</td><td>Lifetime</td><td></td><td></td>
+                </tr>
+                <tr style="font-weight: bold" class="alt">
+                    <td>Number</td><td>Model</td><td>Range</td><td>Read Out</td><td>Battery</td><td>Time</td><td>per Full Charge</td><td>Size</td><td>Weight</td>
+                </tr>
+                <tr>
+                    <td>64032</td><td>HIT-2000</td><td>250-1800 lbf.in</td><td>N.m, kgf.cm and lbf.in</td><td>1.2V NiCd cell x 5</td><td>8 hours</td><td>30 Hours</td><td>12.7" x 12.7"</td><td>5.84 lb.</td>
+                </tr>
+                <tr class="alt">
+                    <td>64031</td><td>HIT-500</td><td>15-440 lbf.in</td><td>N.m, kgf.cm and lbf.in</td><td>1.2V NiCd cell x 5</td><td>8 hours</td><td>30 Hours</td><td>12.7" x 12.7"</td><td>5.84 lb.</td>
+                </tr>
+                <tr>
+                    <td>64030</td><td>HIT-200</td><td>15.0-180 lbf.in</td><td>N.m, kgf.cm and lbf.in</td><td>1.2V NiCd cell x 5</td><td>8 hours</td><td>30 Hours</td><td>9.5" x 9.5"</td><td>4.08 lb.</td>
+                </tr>
+            </table>
+            </td></tr></table>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

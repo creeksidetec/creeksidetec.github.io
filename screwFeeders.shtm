@@ -1,0 +1,65 @@
+﻿<!--**********************************************************************
+*   Filename: screwFeeders.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 05 Jul 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="2">&nbsp;&nbsp;&nbsp;Pick Up and Drive Screws 37% Faster</td></tr>
+    <tr>
+        <td align="center" valign="top" colspan="2"><img src="images/companyContent/screwFeeders/image001.gif" alt="Screw Feeders" /></td>
+    </tr>
+    <tr>
+        <td valign="top" style="padding: 10,10,10,10;" colspan="2">
+            <p>&nbsp;&nbsp;&nbsp;Available in standard, and flathead and robotic models for special applications; the ASG Nejicco screw feeder series are simple… operators can become experts in less than 10 minutes.</p>
+            <p>Simple Operation, Small Price</p>
+            <p>&nbsp;&nbsp;&nbsp;Best of all, ASG screw feeders are simple... operators can become experts in less than 10 minutes. And, at a cost of about 1/10 of a conventional bowl feed system, it's a feeder any assembly operation can afford.</p>
+            <p>&nbsp;&nbsp;&nbsp;<b>Features:</b></p>
+            <ul>
+                <li>Units are available to handle #0 to #12 fasteners</li>
+                <li>Accepts Phillips, TORX, ACR Phillips, Tri-Wing, socket head, Freason and PoziDrive screws </li>
+                <li>Built-in vibratory system (used for screws with captive washers) </li>
+                <li>Compact and lightweight-- approximately 4"x4"x5", 2.5 Ibs. </li>
+                <li>Suitable for use with ferrous screws with screw head styles illustrated below. Bit is magnetized. </li>
+                <li>Also suitable for non-ferrous TORX screws when TORX wedge bit is used, and with non-ferrous Phillips ACR screws when Phillips ACR bit is used.</li>
+                <li>Operates on any ll0V power outlet.</li>
+            </ul>
+            <p>&nbsp;&nbsp;&nbsp;Standard and Flathead units are fully automatic; operators dump loose screws into hopper, dipper scoops them out, aligning them "heads up" in the feeder chute. Operator then simply presses the magnetized bit of a screwdriver into the bit guide and snaps up a screw. The fastening motion is completed in just 2.5 seconds. Studies recently conducted on 8-32 x 3/8" screws show this to be 37% faster than conventional shaker box methods. Robotic units are also fully automatic; specially designed for robotic applications.</p>
+            <p>&nbsp;&nbsp;&nbsp;ASG screw feeders also help reduce damage to workpieces . They are lightweight (2.5 Ibs.), easy to move and require little space on work tables or assembly lines. The units are small enough that several feeders can be used at a single workstation for quick pick-up of different screw types and sizes. They are ideal for any production operation.</p>
+        </td>
+    </tr>
+    <tr class="header"><td colspan="2">ASG screwfeeders accept these screw head styles</td></tr>
+    <tr>
+        <td align="center" valign="top" colspan="2"><img src="images/companyContent/screwFeeders/image002.gif" alt="Screw Feeders" /></td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" colspan="2"><img src="images/companyContent/screwFeeders/image003.gif" alt="Screw Feeders" /></td>
+    </tr>
+    <tr><td colspan="2" align="center"><b>Precision Screw Feeders<br />Standard Interchangeable Rail Models</b></td></tr>
+    <tr class="header"><td colspan="2">The Ultimate in Versatility! Handles #000 to #10 Screws; Even with Washers</td></tr>
+    <tr>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>&nbsp;&nbsp;&nbsp;ASG presents the most flexible screw feeder available, the Quicher. No longer will you have to buy multiple dedicated-size, screw feed devices. The Quicher can handle a huge variety of fastener sizes and types simply by plugging in its interchangeable rails.</p>
+            <p>&nbsp;&nbsp;&nbsp;Operation is simple. Screws are poured into the hopper, automatically lined up and presented for pick-up at a rate of up to two per second. The flat, horizontal rail design keeps screws from getting stuck.</p>
+            <b>Feeds all these types of screws:</b><br />
+            <img src="images/companyContent/screwFeeders/image005.gif" alt="Screw Feeders" />
+        </td>
+        <td align="center" valign="top"><img src="images/companyContent/screwFeeders/image004.gif" alt="Screw Feeders" /></td>
+    </tr>
+    <tr class="header"><td colspan="2">General Specifications</td></tr>
+    <tr>
+        <td valign="top" style="padding: 10,10,10,10;" colspan="2">
+            <ul>
+                <li>Size..............................5-1/4"(W) x 8-1/2"(D) x 5-1/3" (H)</li>
+                <li>Weight..........................7 lbs. </li>
+                <li>Screw feeding speed........2 screws per second </li>
+                <li>Screw capacity................Approx. 1,200 4-40 x 1/4" </li>
+                <li>Screw size......................#000 through #10 (1.0mm thorugh 5.0mm) </li>
+                <li>Power............................110-120 VAC to 12VDC, 500m/A (Adapter supplied)</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

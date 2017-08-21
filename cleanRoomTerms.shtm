@@ -1,0 +1,84 @@
+<!--**********************************************************************
+*   Filename: cleanRoomTerms.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align=center width="650px">
+    <tr class="header">
+        <td colspan="3">
+            Common Terminology
+        </td>
+    </tr>
+    <tr>
+        <td align="left"><b>Clean Room:</b></td>
+        <td>A room or enclosure using HEPA or ULPA filtered air to capture and control particles. The most common method of quantifying the cleanliness of a clean room is counting the number of airborne particles by size in a specified volume of air.</td>
+    </tr>
+    <tr class="alt">
+        <td align="left"><b>Particle Contamination:</b></td>
+        <td>Small pieces of foreign material adversely effecting product quality, such as; lint, hair, skin, flashing, fibers, pollen, smoke, bacterium, spores.</td>   
+    </tr>
+    <tr>
+        <td align="left"><b>Laminar Flow:</b></td>
+        <td>Air that flows straight in one direction.</td>
+    </tr>
+    <tr class="alt">
+        <td align="left"><b>Particle Count:</b></td>
+        <td>The number of airborne particles per cubic foot or cubic meterdisplayed by particle size.</td>
+    </tr>
+    <tr>
+        <td align="left"><b>HEPA:</b></td>
+        <td>High Efficiency Particulate Air (Filter), by definition HEPA is 99.997% efficient at .3µ.</td>
+    </tr>
+    <tr class="alt">
+        <td align="left"><b>ULPA:</b></td>
+        <td>Ultra Low Particulate Air (Filter), by definition ULPA is 99.9997% efficient at .12µ.</td>
+    </tr>
+    <tr>
+        <td align="left"><b>Micron:</b></td>
+        <td>A unit of linear measurement equivalent to one millionth of a meter, symbolized by "µ". A human hair is between 40 and 200 µ’s in diameter.</td>
+    </tr>    
+    <tr class="alt">
+        <td align="left"><b>Protocol:</b></td>
+        <td>Code of conduct: the rules of correct or appropriate behavior for a particular group of people or in a particular situation, i.e. (clean room protocol)</td>
+    </tr>    
+    <tr>
+        <td align="left"><b>Integration:</b></td>
+        <td>The combining of multiple pieces of equipment that work in harmony to provide an intended purpose.</td>
+    </tr>    
+    <tr class="alt">
+        <td align="left"><b>Static Electricity:</b></td>
+        <td>A phenomena resulting from two surfaces coming together, and then separating. This causes one surface to take up the electrons from the other. One surface is left with an excess of electrons (negative charge) and the other surface is deficient of electrons (positive charge).</td>
+    </tr>    
+    <tr>
+        <td align="left"><b>Air Ionization:</b></td>
+        <td>The process of electrically charging atoms of air, either positively or negatively, using electrical force to dislodge and reattach electrons.</td>
+    </tr>    
+    <tr class="alt">
+        <td align="left"><b>Ergonomics:</b></td>
+        <td>Also known as human engineering or human factors engineering, the science of designing machines, products, and systems to maximize the safety, comfort, and efficiency of the people who use them.</td>
+    </tr>
+</table>
+<br />
+<table class="creekside" width="650px" align=center>
+    <tr class="header">
+        <td colspan=3>
+            Help And Procedures
+        </td>
+    </tr>
+    <tr>
+        <td><a href="SummaryOfFS209EAndISO14644.shtm">FS 209E and ISO 14644-1 and ISO 14644-2</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="CleaningProcedures1000-100000.shtm">Cleaning Procedures</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="GowningProcedures1000-100000.shtm">Gowning Procedures</a></td>
+        <td></td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

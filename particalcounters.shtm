@@ -1,0 +1,233 @@
+<!--**********************************************************************
+*   Filename: negativePressure.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 05 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<head>
+	<style type="text/css">
+		.style1
+		{
+			font-weight: normal;
+		}
+	</style>
+</head>
+<br />
+<h3 align="center"><img src="images/companyLogos/haltech.gif" alt="HalTech" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td>Partical Counters</td>
+	</tr>
+    <tr>
+        <td><a href="#HPC300">HAL-HPC300 - Super thin 3-Channel Handheld Particle Counter</a></td>
+    </tr>
+    <tr>
+        <td><a href="#HPC600">HAL-HPC600 - Six-Channel Hybrid Handheld Particle Counter</a></td>
+    </tr>
+    <tr>
+        <td><a href="#PPC300">HAL-PPC300 - 3-Channel Portable Laser Particle Counter</a></td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="2"><a id="HPC300" />HAL-HPC300 - Super thin 3-Channel Handheld Particle Counter</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img src="images/companyContent/haltech/image001.jpg" />
+        </td>
+        <td style="padding:10,10,10,10;" valign="top">
+			<h4>Features</h4>
+			<ul>
+				<li>&nbsp;Simultaneously measures 3 user configurable particle sizes</li>
+				<li>Counting modes with cumulative / differential / concentration / average / auto repeat / timer</li>
+				<li>Up to 1500-data (450 sets) internal memory</li>
+				<li>Excess-count limit warning</li>
+				<li>USB interface for data downloading and upgrading</li>
+				<li>External digital temperature and humidity probe</li>
+			</ul>
+        </td>
+    </tr>
+    <tr>
+		<td colspan="2">
+			<p>&nbsp;&nbsp;HAL-HPC300 Handheld Laser Particle Counters can be used in measuring particles suspended in the air in clean environment applications such as
+Microelectronics, fine mechanics, optics, pharmaceutical, medical device, food processing, aerospace as well indoor/outdoor air quality. The basic
+Operating principle of the HAL-HPC300 is a laser scattering pulse signal of an aerosol particle output from an optical sensor which is processed and counted
+Based on digital signal processing. The setting of measurement parameters, results display, and data storage are all controlled and realized by an internal
+Microprocessor (MCU). The HPC300 simultaneously measures three channel sizes that are configurable by the user. The data is recorded in the embedded flash memory and can be downloaded with supplied software
+Through either a USB or RS232 interface. The HAL-HPC300 was designed in the USA and is in compliance with the international standards (JIS B
+9925:1997 and ISO14644-1) and has CE certification. The HPC300 instrument is very unique compared to other manufacturers in the market; it features high sensitivity, multiple functional capabilities, and is slim, lightweight and very user friendly.
+</p>
+			<h4>Applications</h4>
+			<ul>
+				<li>Clean environment monitoring</li>
+				<li>Indoor air quality</li>
+				<li>Test/Check filter seal and efficiency</li>
+				<li>Trace contamination source</li>
+				<li>Analysis of particle size distribution</li>
+			</ul>
+			<h4>Specifications</h4>
+			<ul>
+				<li><b>Light Source</b> Laser diode (>100,000 hours)</li>
+				<li><b>Sensitivity</b> 0.3?m</li>
+				<li><b>Size</b> Range 0.3?m~10?m</li>
+				<li><b>Channels </b>All three channels are user Configurable (size selections from 0.3?m, 0.5?m, 0.7?m, 1.0?m, 2.0?m, 2.5?m, 5.0?m and 10?m)</li>
+				<li><b>Counting Efficiency</b> 50±20% @0.3?m 100±10% (0.45?m)</li>
+				<li><b>Coincidence Loss</b> <5% @70,000 Particles/Liter or <5% @2,000,000 particles/ft3</li>
+				<li><b>Zero Count</b> <1 count per 5 minutes</li>
+				<li><b>Flow Rate</b> 2.83 L /min (0.1cfm)</li>
+				<li><b>Sampling Time</b> User defined: (up to 59m59s) and Auto repeat (up to 99 times)</li>
+				<li><b>Count Limit Warning</b> </li>
+				<li><b>Standards </b>FED STD 209E (Class 1 ~ 100,000) Or ISO 14644-1 (Class 2 ~ 9)</li>
+				<li><b>Sampling Mode</b> Cumulative, differential, Concentration (counts/liter)</li>
+				<li><b>Error Indications</b> Excess count limit, optics Contamination, loss of laser power, Insufficient battery power</li>
+				<li><b>Interface</b> USB, RS232</li>
+				<li><b>Internal Memory</b> 1500 measurement data (450 sets)</li>
+				<li><b>Power</b> Li-ion polymer rechargeable battery (7.4V/2800mAH) or 9VDC AC Adapter (100~240V input)</li>
+				<li><b>Max. Operating Time</b> Continuous operation > 5 hours With Li-ion battery</li>
+				<li><b>Dimensions</b> 180 (H) ×93 (W) × 46 (D) mm</li>
+				<li><b>Weight</b> < 950 grams (including battery)</li>
+				<li><b>Environmental Conditions</b> Operating: 5 ~ 45°C, < 90%RH Storage: -20 ~ 65°C, < 90%RH</li>
+				<li><b>Accessories</b> AC adaptor, isokinetic probe, USB Data cable, data download software(CD), zero-count filter, digital Temperature and humidity sensor Probe, mini printer, printer cable, Tripod, calibration certificate</li>
+			</ul>
+		</td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="2"><a id="HPC600" />HAL-HPC600 - Six-Channel Hybrid Handheld Particle Counter</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img src="images/companyContent/haltech/image002.gif" />
+        </td>
+        <td style="padding:10,10,10,10;" valign="top">
+			<h4>Features</h4>
+			<ul>
+				<li>All 6 channels continuously Adjustable with 0.1 micron Step resolution</li>
+				<li>Combines both handheld And portable Functionalities with a Built-in mini-printer</li>
+				<li>Up to 6000 internal data Memory</li>
+				<li>Excess-count-limit Warnings</li>
+				<li>Long-distance remote Sensing via Ethernet</li>
+				<li>USB, RS232 and RJ45 Interfaces for data Download and remote Sampling</li>
+				<li>High precision, digital, External temperature and Humidity sensors</li>
+				<li>Durable keypads with a Large blue LCD display</li>
+			</ul>
+
+        </td>
+    </tr>
+    <tr>
+		<td colspan="2">
+			<p>&nbsp;&nbsp;The <b>HPC600</b> handheld laser particle counter is the latest innovation in the demanding application of particle distribution measurements. It is useful in measuring particle distributions in ultra-clean environments by its single particle counting ability as well as in indoor air quality applications. The instrument consists of a handheld monitor with a main base unit that allows users to conduct sampling with the portable handheld monitor while easily expanding to multiple functionalities provided by the base unit. These extended functions include data downloading, real-time data printing, software upgrades, battery charging, etc. In addition to USB interfaces, the RJ45 interface allows users to conduct remote sampling away from the sampling location via Ethernet. The HAL-HPC600 is the world’s first of its kind hybrid handheld optical particle counter. The instrument is truly a breakthrough for a new generation. Of particle counters that combine the traditional handheld instruments with functionalities of portable instruments. It is in compliance with the international standards (JIS B 9925:1997 and ISO14644-1) and CE certification. It supports both metric and English systems. All of its key components are made in the USA, Germany or Japan. It features high sensitivity, multiple functional capabilities, ease of use and reliability for extremely sensitive environmental measurements and advanced applications.</p>
+			<h4>Applications</h4>
+			<ul>
+				<li>Clean environment Monitoring</li>
+				<li>Indoor air quality</li>
+				<li>Test/Check filter Seal and efficiency</li>
+				<li>Trace Contamination Source</li>
+				<li>Analysis of particle Size distribution</li>
+			</ul>
+			<h4>Specifications</h4>
+			<ul>
+				<li><b>Light Source</b> Laser diode (&gt;100,000 hours)</li>
+				<li><b>Sensitivity</b> 0.3?m</li>
+				<li><b>Size</b> Range 0.3 ~ 25?m</li>
+				<li><b>Channels </b>User configurable on any channel with 0.1?m resolution (six default channel Settings: 0.3, 0.5, 0.7, 1.0, 2.0, 5.0?m)</li>
+				<li><b>Counting Efficiency</b> 50±20% @ 0.3?m 100±10% @ 0.45?m</li>
+				<li><b>Coincidence Loss</b> &lt;5% @ 70,000 particles/liter or &lt;5% @ 2,000,000 particles/ft3</li>
+				<li><b>Zero Count</b> &lt;1 count per 5 minutes</li>
+				<li><b>Flow Rate</b> 2.83 L /min (0.1cfm)</li>
+				<li><b>Sampling Time</b> User defined: (up to 59m59s) and Auto repeat (up to 99 times)</li>
+				<li><b>Count Limit Warning</b></li>
+				<li style="font-weight: 700">Standards <span class="style1">FED STD 209E (Class 1 ~ 100,000) Or ISO 14644-1 (Class 2 ~ 9)</span></li>
+				<li><b>Sampling Mode</b> Cumulative, differential, concentration (Counts/liter, counts/cubic foot)</li>
+				<li><b>Error Indicators</b> Excess count limit, optics Contamination, loss of laser power, Insufficient battery power</li>
+				<li><b>Interface</b> USB, RS232, RJ45</li>
+				<li><b>Internal Memory</b> 6000 measurement data (1000 sets)</li>
+				<li><b>Power</b> Removable, rechargeable Lithium Battery (7.4V/2800mAh) or 9VDC AC Adapter (100~240V input)</li>
+				<li><b>Max. Operating Time</b> Continuous operation &gt; 5 hours with Lithium battery</li>
+				<li><b>Dimensions</b> Handheld: 185 (H) × 90 (W) ×48 (D) mm Base unit: 152 (Dia.) × 90 (H) mm</li>
+				<li><b>Weight</b> &lt; 800 grams (including battery)</li>
+				<li><b>Environmental Conditions Operating:</b> 5 ~ 45°C, &lt; 90%RH</li>
+				<li><b>Storage:</b> -20 ~ 65°C, &lt; 90%RH</li>
+				<li><b>Accessories</b> Main base unit, AC adaptor, isokinetic Probe, USB data cable, data Download software (CD), zero-count Filter, digital temperature and humidity Sensor probe, tripod, calibration Certificate</li>
+			</ul>
+		</td>
+    </tr>
+</table>
+<br />
+
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="2"><a id="PPC300" />HAL-PPC300 - 3-Channel Portable Laser Particle Counter</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img src="images/companyContent/haltech/image003.png" />
+        </td>
+        <td style="padding:10,10,10,10;" valign="top">
+			<h4>Features</h4>
+			<ul>
+				<li>Simultaneously measure 3-channel Particle distributions</li>
+				<li>Automatic sampling and Excess-count limit warning</li>
+				<li>USB/RS232 interface for data Downloading and upgrading</li>
+				<li>Built-in printer</li>
+				<li>Built-in zero-counter filter</li>
+				<li>Built-in flow-meter</li>
+				<li>AC and DC dual power use</li>
+			</ul>
+        </td>
+    </tr>
+    <tr>
+		<td colspan="2">
+			<p><b>&nbsp;&nbsp;&nbsp; HAL-PPC300</b> portable laser particle counter can be used in measuring particles suspending in the air and their distributions in clean environment
+Applications such as microelectronics, fine mechanic, optics, and pharmaceutical, medical device, food processing and aerospace. The basic
+Principle of the CW-PPC300 portable laser particle counters is that the laser scattering pulse signal of an aerosol particle output from an optical sensor is
+Processed and counted based on digital signal processing. The setting of measurement parameters, result display, and data storage are all
+Controlled or realized by an internal microprocessor (MCU). It can simultaneously measure three channels that are arbitrarily configured or set by the users. The data are recorded in the embedded flash
+Memory and can be downloaded with supplied software through either USB or RS232 interface. The user can also upgrade the firmware through
+USB or RS232 interface. The HAL-PPC300 is in compliance with the
+International standard (ISO14644-1) and CE certification. All of its key components are made from USA, Germany and Japan. The instrument is
+Unique in many aspects comparing to the similar products in the market. A built-in printer allows for on-site data print out. In addition, both a built-in
+Flow-meter and zero-counter filter ensure the quality of measurement with capabilities of onsite flow and zero-count calibration.
+</p>
+			<h4>Applications</h4>
+			<ul>
+				<li>Clean environment monitoring</li>
+				<li>Indoor Air Quality</li>
+				<li>Test/Check Filter seal and efficiency</li>
+				<li>Trace contamination source</li>
+				<li>Analysis of Particle size Distribution</li>
+			</ul>
+
+			<h4>Specifications</h4>
+			<ul>
+				<li><b>Light Source</b> Laser diode (>100,000 hours)</li>
+				<li><b>Sensitivity</b> 0.3?m</li>
+				<li><b>Channels</b> 0.3 ~25?m (three default channels: 0.3, 0.5, 5.0?m, user configurable)</li>
+				<li><b>Counting Efficiency</b> 50±20% @0.3?m 100±10% (0.5?m)</li>
+				<li><b>Coincidence Loss</b> <5% @70,000 particles/liter or <5% @2,000,000 particles/ft3</li>
+				<li><b>Flow Rate</b> 2.83 L /min (0.1cfm)</li>
+				<li><b>Sampling Time</b> User defined: (up to 59m59s) and Auto repeat (up to 99 times)</li>
+				<li><b>Count Limit Warning</b></li>
+				<li><b>&nbsp;Standards </b>FED209E and ISO14644-1</li>
+				<li><b>Sampling Mode </b>Cumulative, differential, Concentration (counts/liter)</li>
+				<li><b>Error Indications</b> Excess count limit, optics Contamination, loss of laser power, Insufficient battery power</li>
+				<li><b>Interface</b> USB, RS232</li>
+				<li><b>Data Transfer Rate</b> 12M bps</li>
+				<li><b>Internal Memory</b> 3000 measurement data (1000 sets)</li>
+				<li><b>Power</b> Ni-MH Rechargeable battery (6V/2500mAh) or 12VDC AC Adapter (100~240V input)</li>
+				<li><b>Max. Operating time</b> Continuous operation > 5 hours with Ni-MH battery</li>
+				<li><b>Dimension</b> 180 (W) × 212 (D) × 123 (H) mm</li>
+				<li><b>Weight</b> < 3500 grams (including battery)</li>
+				<li><b>Environmental Condition</b> Operating: 5 ~ 45°C, < 90%RH Storage: -20 ~ 65°C, < 90%RH</li>
+				<li><b>Standard Accessories</b> AC adaptor, iso-kenetic probe, USB Data cable, data download software (CD) Optional External temperature and humidity Sensor, zero-count filter</li>
+			</ul>
+		</td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

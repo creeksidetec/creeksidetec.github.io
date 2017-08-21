@@ -1,0 +1,33 @@
+<!--**********************************************************************
+*   Filename: GowningProcedures-1000-100000.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 25 Sep 2006
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table border="0" width="90%" align="center">
+    <tr>
+        <td align="left"><h3>Cleanroom Gowning Procedures Class 1,000 thru 100,000</h3></td>
+    </tr>
+</table>
+<table class="creekside" align="center" width="90%">
+    <tr class="header">
+        <td colspan="4">
+            &nbsp;&nbsp;&nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <br /><br />
+            <ol>
+                <li>Place both feet twice on tacky mat to remove debris from shoe soles.</li>
+                <li>Dawn shoe covers making sure to cover entire shoe.</li>
+                <li>Put on Bouffant cap and Beard cover (if necessary) making sure all hair is contained.</li>
+                <li>Put on tyvek frock (Do not let frock contact floor).</li>
+                <li>Dawn Clean-Room Gloves and Face mask (if necessary).</li>
+            </ol>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

@@ -1,0 +1,61 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align=center width="650px">
+    <tr class="header"><td colspan="2">&nbsp;&nbsp;&nbsp;Controlled Envronments</td></tr>
+    <tr class="alt"><td colspan="2">Clean Rooms</td></tr>
+    <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>Hardwall - Softwall - Portable</td></tr>
+    <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>Flow Hoods</td></tr>
+    <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>Vetical - Horizontal</td></tr>
+    <tr class="alt"><td colspan="2">Negative pressure enclosures</td></tr>
+    <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>Bench top - Free standing - Room systems</td></tr>
+</table>
+<br />
+<table class="creekside" align=center width="650px">
+    <tr class="header"><td colspan="2">&nbsp;&nbsp;&nbsp;Bonding</td></tr>
+    <tr class="alt"><td colspan="2">UV Spot Cure</td></tr>
+    <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>Omnicure Systems - Radiometers - Light Guides</td></tr>
+    <tr class="alt"><td colspan="2">Dispensing</td></tr>
+    <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>EDSYN Auto Syringe</td></tr>
+</table>
+<br />
+<table class="creekside" align=center width="650px">
+    <tr class="header"><td colspan="2">&nbsp;&nbsp;&nbsp;Static Control</td></tr>
+    <tr><td colspan="2">Ionization</td></tr>
+    <tr class="alt"><td colspan="2">Guns Bars Blowers</td></tr>
+    <tr><td colspan="2">Grounding Systems</td></tr>
+    <tr class="alt"><td colspan="2">Mats - Straps - Alarms</td></tr>
+    <tr><td colspan="2">Packaging</td></tr>
+    <tr class="alt"><td colspan="2">Sealers</td></tr>
+</table>
+<br />
+<table class="creekside" align=center width="650px">
+    <tr class="header"><td colspan="2">&nbsp;&nbsp;&nbsp;Work Stations</td></tr>
+    <tr><td colspan="2">Benches</td></tr>
+    <tr class="alt"><td colspan="2">Chairs</td></tr>
+    <tr><td colspan="2">Carts</td></tr>
+    <tr class="alt"><td colspan="2">Racks</td></tr>
+    <tr><td colspan="2">Soldering Stations</td></tr>
+</table>
+<br />
+<table class="creekside" align=center width="650px">
+    <tr class="header"><td colspan="2">&nbsp;&nbsp;&nbsp;Test Equipment</td></tr>
+    <tr><td colspan="2">Air-Flow</td></tr>
+    <tr class="alt"><td colspan="2">Temp - Humidity</td></tr>
+    <tr><td colspan="2">Static Charge</td></tr>
+    <tr class="alt"><td colspan="2">Laser Partical Counting - Liquid and Air</td></tr>
+</table>
+<br />
+<table class="creekside" align=center width="650px">
+    <tr class="header"><td colspan="2">&nbsp;&nbsp;&nbsp;Tools</td></tr>
+    <tr><td colspan="2">Power Drivers</td></tr>
+    <tr class="alt"><td colspan="2">Tape Dispensers</td></tr>
+    <tr><td colspan="2">Hand Tools</td></tr>
+</table>
+<br />
+<br /><br />
+<!--#include file="footer.htm" -->

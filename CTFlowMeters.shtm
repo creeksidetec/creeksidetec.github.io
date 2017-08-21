@@ -1,0 +1,92 @@
+﻿<!--**********************************************************************
+*   Filename: CTFlowMeters.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 09 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Heavy Duty CFM Metal Vane Anemometer</td></tr>
+    <tr>
+        <td><img src="images/companyContent/CTFlowMeters/image002.jpg" alt="CTFlowMeters" /></td>
+        <td valign="top">
+            <p><b>Withstands temperatures to 175°F (80°C) and airspeed to 7880ft/min</b></p>
+            <p>Display Air Flow (CFM) or Air Velocity plus Temperature</p>
+            <p>Air Flow displayed in 3 modes: - Instantaneous value - Up to 20 point average or - 2/3 flow value</p>
+            <p>Record and Recall MIN, MAX</p>
+            <p>Data Hold plus Auto power off</p>
+            <p>Built-in RS-232 PC Interface</p>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Heavy Duty Hot Wire Thermo-Anemometer</td></tr>
+    <tr>
+        <td><img src="images/companyContent/CTFlowMeters/image003.jpg" alt="CTFlowMeters" /></td>
+        <td valign="top">
+            <p><b>Telescoping probe is designed to fit into small openings and measure airflow down to 40ft/min</b></p>
+            <p>Telescoping probe is ideal for measuring in HVAC ducts and other small vents; extends up to 4ft (1.22m) long.</p>
+            <p>Super large 1.4" (36mm) dual LCD display.</p>
+            <p>Min/Max, Data Hold</p>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Air Flow Indicators</td></tr>
+    <tr>
+        <td valign="top"><img src="images/companyContent/CTFlowMeters/image001.jpg" alt="CTFlowMeters" /></td>
+        <td valign="top">
+            <p><b>Special Features:</b></p>
+            <ul>
+                <li>All Mechanical Continuous Airflow Indicator</li>
+                <li>Positive and Negative Indicator</li>
+                <li>Simplifies Measurement of Low Air Velocities from (25 - 400 feet per minute, +/- 5%)</li>
+                <li>Maintenance Free</li>
+                <li>No Calibration Required</li>
+                <li>Easy to Install</li>
+                <li>Large, Easy-to-read Indicator Allows Staff to See Room Airflow at a Glance</li>
+                <li>Custom Sizes Available to Accommodate Unique Wall Dimensions</li>
+                <li>Replaces the need for Hot Wire Anemometer and other airflow direction devices</li>
+                <li>Limited Lifetime Warranty</li>
+            </ul>
+
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <table width="100%">
+                <tr class="header">
+                    <td colspan="2">Specification Data - MODELS L101, LN102 & LP102</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Manufacturer:</b></td>
+                    <td>Lamiflow Air Systems, Inc.</td>
+                </tr>
+                <tr>
+                    <td><b>Applications:</b></td>
+                    <td>Excellent for continuous monitoring of patient critical care and isolation rooms, labs, morgues, O.R., E.R., Endoscopy, N.I.C.U., Radiology and anywhere continuous monitoring of (negative or positive) airflow is desired.</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Composition:</b></td>
+                    <td>All units are constructed in two sections of 1?4" Clear Acrylic and durable 18-gauge stainless steel with one airflow monitoring device (two in L101) fitted into the exterior section. The airflow gauge is specifically designed to measure low air velocities from 25 to 400 feet per minute. Gauge housing is molded from tough ABS plastic and is easy to clean.</td>
+                </tr>
+                <tr>
+                    <td><b>Standard Size:</b></td>
+                    <td>Single Models: 4.4" tall, 2.125" wide, extend from 4" to 7" nominal<br />Double Model: 8.25" tall, 1.125" wide, both extend from 4" to 7" nominal</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Weight:</b></td>
+                    <td>Single Models: 2.75 lbs. (4 lbs. shipped)<br />Double Model: 4.75 lbs. (6 lbs. shipped)</td>
+                </tr>
+                <tr>
+                    <td><b>Calibration:</b></td>
+                    <td>No calibration required. Marks may be added to the gauge once desired airflow range is established.</td>
+                </tr>
+            </table>        
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

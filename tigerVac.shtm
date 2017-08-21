@@ -1,0 +1,136 @@
+<!--**********************************************************************
+*   Filename: tigerVac.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<div align=center>
+    <img src="images/companyLogos/tigerVacLogo.jpg" width="225px" />
+</div>
+<br />
+<table width="650px" class="creekside" align=center>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;CLEANROOM VACUUM CLEANER SYSTEM MODEL EMI-CWR
+        </td>
+    </tr>
+    <tr>
+        <td class="productImage">
+            <img src="images/companyContent/tigerVac/image001.jpg" /></td>
+        <td valign="top" class="description">
+            <br />
+            <ul>
+                <li>STATIC FREE CLEANROOM VACUUM CLEANER SYSTEM</li>
+                <li>ALL CHROME PLATED STEEL CONSTRUCTION</li>
+                <li>STAINLESS STEEL MODEL AVAILABLE </li>
+            </ul>
+        </td>
+    </tr>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;CWR-8 Poly</td>
+    </tr>
+    <tr>
+        <td class="productImage">
+            <img src="images/companyContent/tigerVac/image002.jpg" height="200px" /></td>
+        <td valign="top" class="description">
+            <br />
+            <ul>
+                <li>Cleanroom Vacuum Cleaner System for wet & dry recovery</li>
+                <li>All stainless steel 304/316 for easy decontamination and excellent corrosion resistance.</li>
+                <li>With autoclavable recovery tanks and autoclavable floater system. Designed for applications
+                    where liquids and detergents are to be recovered in a controlled environment. Autoclavable
+                    floater system cuts off suction when recovered liquids reach capacity.</li>
+                <li>Static free and ESD safe. Our wet & dry vacuum cleaner are designed to be grounded
+                    during use. With electrical resistivity less than 10 ohms, any static produced while
+                    vacuuming is quickly and effectively discharged to ground.</li>
+                <li><b>EMI / RFI Shielded:</b> Will not disrupt computers and sensitive electronic equipment.</li>
+                <li>ULPA filter efficiency of 99.999% on 0.12 micron. Dual ULPA filtration to filter
+                    both the working and cooling air. Each ULPA filter is individually laser tested
+                    to ensure Cleanroom compatibility and allows for maximum suction power.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;CWR-8 (4W)</td>
+    </tr>
+    <tr>
+        <td class="productImage">
+            <img src="images/companyContent/tigerVac/image003.jpg" height="200px" /></td>
+        <td valign="top" class="description">
+            <br />
+            <ul>
+                <li>Cleanroom Vacuum Cleaner System for wet & dry recovery</li>
+                <li>All stainless steel 304/316 for easy decontamination and excellent corrosion resistance.</li>
+                <li>With autoclavable recovery tanks and autoclavable floater system. Designed for applications
+                    where liquids and detergents are to be recovered in a controlled environment. Autoclavable
+                    floater system cuts off suction when recovered liquids reach capacity.</li>
+                <li>Static free and ESD safe. Our wet & dry vacuum cleaner are designed to be grounded
+                    during use. With electrical resistivity less than 10 ohms, any static produced while
+                    vacuuming is quickly and effectively discharged to ground.</li>
+                <li><b>EMI / RFI Shielded:</b> Will not disrupt computers and sensitive electronic equipment.
+                </li>
+                <li>ULPA filter efficiency of 99.999% on 0.12 micron. Dual ULPA filtration to filter
+                    both the working and cooling air. Each ULPA filter is individually laser tested
+                    to ensure Cleanroom compatibility and allows for maximum suction power.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;(4W) CWR-10</td>
+    </tr>
+    <tr>
+        <td class="productImage">
+            <img src="images/companyContent/tigerVac/image004.jpg" height="200px" /></td>
+        <td valign="top" class="description">
+            <br />
+            <ul>
+                <li>Cleanroom Vacuum Cleaner System for wet & dry recovery</li>
+                <li>All stainless steel 304/316 for easy decontamination and excellent corrosion resistance.</li>
+                <li>With autoclavable recovery tanks and autoclavable floater system. Designed for applications
+                    where liquids and detergents are to be recovered in a controlled environment. Autoclavable
+                    floater system cuts off suction when recovered liquids reach capacity.</li>
+                <li>Static free and ESD safe. Our wet & dry vacuum cleaner are designed to be grounded
+                    during use. With electrical resistivity less than 10 ohms, any static produced while
+                    vacuuming is quickly and effectively discharged to ground.</li>
+                <li><b>EMI / RFI Shielded:</b> Will not disrupt computers and sensitive electronic equipment.</li>
+                <li>ULPA filter efficiency of 99.999% on 0.12 micron. Dual ULPA filtration to filter
+                    both the working and cooling air. Each ULPA filter is individually laser tested
+                    to ensure Cleanroom compatibility and allows for maximum suction power.</li>
+                <li>CWR-10/15 (4W) MR has a Middle Ring System with an Activated Carbon System for the
+                    adsorption of vapors and odors. Several types of activated carbon filters are available.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;CWR-15 (4W)</td>
+    </tr>
+    <tr>
+        <td class="productImage">
+            <img src="images/companyContent/tigerVac/image005.jpg" height="200px" /></td>
+        <td valign="top" class="description">
+            <br />
+            <ul>
+                <li>Cleanroom Vacuum Cleaner System for wet & dry recovery</li>
+                <li>All stainless steel 304/316 for easy decontamination and excellent corrosion resistance.</li>
+                <li>With autoclavable recovery tanks and autoclavable floater system. Designed for applications
+                    where liquids and detergents are to be recovered in a controlled environment. Autoclavable
+                    floater system cuts off suction when recovered liquids reach capacity.</li>
+                <li>Static free and ESD safe. Our wet & dry vacuum cleaner are designed to be grounded
+                    during use. With electrical resistivity less than 10 ohms, any static produced while
+                    vacuuming is quickly and effectively discharged to ground.</li>
+                <li><b>EMI / RFI Shielded:</b> Will not disrupt computers and sensitive electronic equipment.</li>
+                <li>ULPA filter efficiency of 99.999% on 0.12 micron. Dual ULPA filtration to filter
+                    both the working and cooling air. Each ULPA filter is individually laser tested
+                    to ensure Cleanroom compatibility and allows for maximum suction power.</li>
+                <li>CWR-10/15 (4W) MR has a Middle Ring System with an Activated Carbon System for the
+                    adsorption of vapors and odors. Several types of activated carbon filters are available.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<!--#include file="footer.htm" -->

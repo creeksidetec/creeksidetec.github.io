@@ -1,0 +1,51 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/edsyn/image001.gif" alt="Edsyn" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;951SX</td></tr>
+    <tr>
+        <td><img src="images/companyContent/edsyn/image002.jpg" alt="Edsyn" /></td>
+        <td valign="top">
+            <br />
+            <ul>
+                <li>OUR BEST SELLING - Temperature Controlled Soldering Station.</li>
+                <li>An industry standard. Don't miss this exceptional value.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;951SX-H10</td></tr>
+    <tr>
+        <td><img src="images/companyContent/edsyn/image002.jpg" alt="Edsyn" /></td>
+        <td valign="top">
+            <br />
+            <ul>
+                <li>High Performance Soldering Station with tool set 1000°F.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;951SX-H12</td></tr>
+    <tr>
+        <td><img src="images/companyContent/edsyn/image002.jpg" alt="Edsyn" /></td>
+        <td valign="top">
+            <br />
+            <ul>
+               <li>High Performance Soldering Station with tool set 1200°F</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<br /><br />
+<!--#include file="footer.htm" -->

@@ -1,0 +1,28 @@
+.productImage 
+{
+	width: 140px;
+	height: 200px
+}
+
+.productImage2
+{
+    width: 150px;
+    height: 150px
+}
+
+.productImage3
+{
+    width: 150px;
+    height: 66px
+}
+
+.productImage4
+{
+    width: 145px;
+    height: 192px
+}
+
+.description
+{
+	font-family: Arial;
+}

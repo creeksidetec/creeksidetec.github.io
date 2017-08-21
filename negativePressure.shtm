@@ -1,0 +1,85 @@
+<!--**********************************************************************
+*   Filename: gloves.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 05 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br />
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="2">SS-370-DCH-D Ductless Fume Hood</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img src="images/companyContent/sentryair/image001.jpg" />
+        </td>
+        <td style="padding:10,10,10,10;" valign="top">
+            <p>&nbsp;&nbsp;&nbsp;When the application requires a filtered, 70” wide hooded type enclosure on the work surface, the SS-370-DCH-D Ductless Fume Hood may be an excellent choice. This unit features unique hinged folding side panels, a high-density polyethylene base, a clear polycarbonate top and a hinged sloping front lid.</p>
+            <p><b>For additional visibility, a transparent version is available at no extra cost.</b></p>
+            <p>&nbsp;&nbsp;&nbsp;The powerful fans on top of the hood combine with a variety of Hepa and/or carbon filters to provide strong suction across the inlet area. Typical uses may involve the filtration of Toluene, MEK, Acetone, Alcohols, Solvents, and a variety of processes involving chemical fumes and dusts, where both a high velocity and high filtration area are a necessity.</p>
+            <p>&nbsp;&nbsp;&nbsp;Sentry Air's <b>Ductless Fume Hood</b> can provide an effective and economical solution for many commercial, medical, laboratory and industrial applications.</p>
+        </td>
+    </tr>
+    <tr class="alt">
+        <td valign="top" rowspan="2"><b>Hood Dimensions:</b></td>
+        <td><b>O.D:</b> 24" D x 72” W x 25" H</td>
+    </tr>
+    <tr>
+        <td><b>I.D.:</b> 23.5" D x 70" W x 24" H</td>
+    </tr>
+    <tr>
+        <td valign="top" rowspan="4"><b>Hood Material:</b></td>
+        <td class="alt"><b>Sides:</b> .250" White Acrylic</td>
+    </tr>
+    <tr>
+        <td><b>Base:</b> .500" White High Density Polyethylene</td>
+    </tr>
+    <tr class="alt">
+        <td><b>Top:</b> .500" Clear Polycarbonate</td>
+    </tr>
+    <tr>
+        <td><b>Front:</b> .250" Clear Polycarbonate</td>
+    </tr>
+    <tr class="alt">
+        <td valign="top"><b>Blower Dimensions:</b></td>
+        <td>13" L x 13" W x 13.75" H</td>
+    </tr>
+    <tr>
+        <td valign="top"><b>Blower Material:</b></td>
+        <td>16 ga. carbon steel w/ polyester epoxy coating on all surfaces</td>
+    </tr>
+    <tr class="alt">
+        <td valign="top"><b>Total Weight:</b></td>
+        <td>115/1/60, Approx. 4 amps</td>
+    </tr>
+    <tr>
+        <td valign="top"><b>Motor</b></td>
+        <td>Fractional Horsepower, TEFC</td>
+    </tr>
+    <tr class="alt">
+        <td valign="top"><b>Electrical:</b></td>
+        <td>115/1/60, Approx. 2 amps</td>
+    </tr>
+    <tr>
+        <td valign="top"><b>Sound Level</b></td>
+        <td>Approx. 61 to 66 dba (Blower Speed: Low to High)</td>
+    </tr>
+    <tr class="alt">
+        <td valign="top" rowspan="2"><b>Approximate Inlet Velocities:</b></td>
+        <td>Pre-filter & 99.97% HEPA Filter - 170 FPM High; 25 FPM Low</td>
+    </tr>
+    <tr>
+        <td>Pre-filter & Heavy-duty Carbon Filter - 115 FPM High; 20 FPM Low</td>
+    </tr>
+    <tr>
+        <td valign="top"><b>Warranty:</b></td>
+        <td>Limited one-year warranty from date of shipment on defects due to materials or workmanship.</td>
+    </tr>
+    <tr class="alt">
+        <td valign="top"><b>Patented Design:</b></td>
+        <td>U.S. PATENT #5,843,197</td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

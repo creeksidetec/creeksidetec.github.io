@@ -1,0 +1,137 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/staticTech/image002.jpg" alt="staticTech" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;WT-1035 Work Station Monitor</td></tr>
+    <tr>
+        <td><img src="images/companyContent/staticTech/image004.jpg" alt="staticTech" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+         <p><b>Flexible design can be used with either dual wire or standard single wire wrist straps</b></p>
+         <p>By simply switching adapters the WT-1035 can be used with virtually any style wrist strap.</p>
+         <ul>
+            <li>Low voltage (5V) unit</li>
+            <li>Constant monitor</li>
+            <li>Monitors two stations</li>
+            <li>Monitors work surfaces ground</li>
+         </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;WT-1060 Adapter For Basic Connection With Dual Wire Wrist Straps</td></tr>
+    <tr>
+        <td><img src="images/companyContent/staticTech/image006.jpg" alt="staticTech" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>Remote jacks enable wrist straps to be monitored in "resistance" mode. Monaural jack accepts dual wire wrist straps from all major suppliers including STATIC TECH's WB-6000 and WB-7000 series.</p>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;WT-1050 Impedance Converter  For Single Wire Wrist Straps</td></tr>
+    <tr>
+        <td><img src="images/companyContent/staticTech/image008.jpg" alt="staticTech" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>These grounding blocks convert the monitor's signal to impedance mode, enabling the unit to work with standard single wire wrist straps with banana plugs.</p>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td>&nbsp;&nbsp;&nbsp;DUAL WIRE WRIST STRAPS FOR RESISTANCE MONITORS</td>
+    </tr>
+    <tr>
+        <td style="padding: 10,10,10,10;">
+            <p>&nbsp;&nbsp;&nbsp;Resistance monitors are becoming increasingly popular among electronic manufacturers to ensure wrist straps are working. Dual wire wrist straps are needed with resistance monitors to carry a signal from the monitor along the wrist strap and back to the monitor. We offer two wrist strap designs for use with resistance monitors. These wrist straps work with all resistance monitors including our WT-1035 low voltage unit.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table class="creekside" align="center" width="650px">
+                <tr class="header">
+                    <td colspan="4">&nbsp;&nbsp;&nbsp;WB-6050 ADJUSTABLE ELASTIC WRIST STRAP</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="images/companyContent/staticTech/image018.jpg" alt="staticTech" /></td>
+                    <td valign="top" style="padding: 10,10,10,10;">
+                        <ul>
+                            <li>Comfortable elastic fabric</li>
+                            <li>Fits all dual wire wrist strap monitors</li>
+                            <li>Single snap design</li>
+                            <li>Economical</li>
+                            <li>Available with 6' or 12' cord</li>
+                        </ul>
+                        <table width="100%">
+                            <tr class="alt" style="font-weight: bold;">
+                                <td>Part #</td>
+                                <td>Item</td>
+                            </tr>
+                            <tr>
+                                <td>WB-6000</td>
+                                <td>Wrist band (no cord)</td>
+                            </tr>
+                            <tr class="alt">
+                                <td>WB-6050</td>
+                                <td>Wrist band with 6' cord</td>
+                            </tr>
+                            <tr>
+                                <td>WB-6060</td>
+                                <td>Wrist band with 12' cord</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table class="creekside" align="center" width="650px">
+                <tr class="header">
+                    <td colspan="4">&nbsp;&nbsp;&nbsp;WB-7050 METAL BAND WRIST STRAP</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="images/companyContent/staticTech/image020.jpg" alt="staticTech" /></td>
+                    <td valign="top" style="padding: 10,10,10,10;">
+                        <ul>
+                            <li>Rugged plastic clad, stainless steel plate construction</li>
+                            <li>Fits all dual wire wrist strap monitors</li>
+                            <li>Single snap design</li>
+                            <li>Available with 6' or 12' cord</li>
+                        </ul>
+                        <table width="100%">
+                            <tr class="alt" style="font-weight: bold;">
+                                <td>Part #</td>
+                                <td>Item</td>
+                            </tr>
+                            <tr>
+                                <td>WB-7000</td>
+                                <td>Wrist band (no cord)</td>
+                            </tr>
+                            <tr class="alt">
+                                <td>WB-7050</td>
+                                <td>Wrist band with 6' cord</td>
+                            </tr>
+                            <tr>
+                                <td>WB-7060</td>
+                                <td>Wrist band with 12' cord</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

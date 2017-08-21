@@ -1,0 +1,71 @@
+<!--**********************************************************************
+*   Filename: negativePressure.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 05 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br />
+<h3 align="center"><img src="images/companyContent/micronova/image001.gif" alt="Micronova" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="2">NovaClean™ Lab & Glass Clean</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img src="images/companyContent/micronova/image005.jpg" />
+        </td>
+        <td style="padding:10,10,10,10;" valign="top">
+            <p>&nbsp;&nbsp;&nbsp;Low-ionic ready-to-use cleaner for work-stations, laminar flow benches, glass, plastic and acrylic screens, cleanroom curtains and painted surfaces.</p>
+            <p>&nbsp;&nbsp;&nbsp;Filtered to 0.1 microns the NovaClean Lab & Glass Clean has sodium and potassium levels detectable only in parts per billion. Available in an easy-to-use quart size spray bottle the solution has a good evaporation rate and can be applied directly on the surface to be cleaned. Also available in gallon containers.</p>
+            <p>
+                <ul>
+                    <li>Filtered to 0.1 Microns</li>
+                    <li>Low Sodium</li>
+                    <li>Bio-degradable</li>
+                    <li>No blending or mixing</li>
+                </ul>
+            </p>
+            <p><b>Product id:</b> NC2-Q, NC2-G</p>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="2">NovaClean™ Floor Clean</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img src="images/companyContent/micronova/image006.jpg" />
+        </td>
+        <td style="padding:10,10,10,10;" valign="top">
+            <p>&nbsp;&nbsp;&nbsp;NovaClean Floor Clean is an all-purpose cleanroom cleaner filtered to 0.1 microns. At the recommended dilution the formula claims sodium and potassium levels detectable only in parts per billion. With no mobile ions the NovaClean will not generate a static charge and with no residue build up it will not affect the efficiency of conductive flooring. NovaClean Floor Clean is a concentrate which will yield 60-128 gallons of cleaning solution per gallon container.</p>
+            <p>
+                <ul>
+                    <li>Filtered to 0.1 Microns</li>
+                    <li>Low Sodium</li>
+                    <li>Bio-degradable</li>
+                    <li>Free Rinsing</li>
+                </ul>
+            </p>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="2">NovaHol™ Cleanroom Cleaner</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img src="images/companyContent/micronova/image007.jpg" />
+        </td>
+        <td style="padding:10,10,10,10;" valign="top">
+            <p>&nbsp;&nbsp;&nbsp;This ready-to-use formulation offers the same fine filtration and low ionic levels of NovaClean with the addition of Isopropyl Alcohol to speed dry time. NovaHol is available in an easy to use spray bottle and can be applied directly to the surface being cleaned. Gallon refill bottles are also available. With its extremely high evaporation rate, NovaHol is ideal for cleaning glass, acrylic, vinyl curtains and stainless steel surfaces.</p>
+            <p><b>Product id:</b> NH1-Q, NH1-</p>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

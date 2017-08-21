@@ -1,0 +1,260 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;WAVE + Plus</td></tr>
+    <tr>
+        <td valign="top">
+        <img src="images/companyContent/luxo/image001.jpg" alt="Luxo" />
+        <img src="images/companyContent/luxo/image003.gif" alt="luxo" />
+        <img src="images/companyContent/luxo/image002.jpg" alt="luxo" />
+        </td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>The large, rectangular viewing area of the glass lens enables comfortable viewing with both eyes</p>
+            <p>Unequalled for a large number of applications in industry, medicine and the beauty trade.</p>
+            <ul>
+                <li>Three-dimensional magnification with light coming from the left or right and shadow-free magnification with light coming from both sides</li>
+                <li>Slim edge in front of the lens ensures that eye contact with the viewed object is not lost when switching from magnification to normal viewing and back again </li>
+                <li>The neck joint between the head and arm moves in three planes: horizontally, vertically and laterally </li>
+                <li>A specially coated ESD (electrostatic discharge) version is available for the electronics industry</li>
+                <li>Available with anti-reflective coating on lens</li>
+                <li>UV model ideal for the inspection of conformal coatings</li>
+                <li>Colors available: Black, White or Light Grey - (please note: ESD and UV versions only available in Black)</li>
+                <li>Uses two 13W compact fluorescents included</li>
+            </ul>
+            <p>WAVE + Plus has received the Good Design Award from the Norwegian Design Council.</p>
+            <table width="100%">
+                <tr class="alt" align="center">
+                    <td><b>Item #</b></td>
+                    <td><b>Arm Reach</b></td>
+                    <td><b>Bracket</b></td>
+                    <td><b>Lens</b></td>
+                </tr>
+                <tr align="center">
+                    <td>17845</td>
+                    <td>45"</td>
+                    <td>AH (bracket)</td>
+                    <td>3.5 diopter lens</td>
+                </tr>
+                <tr class="alt" align="center">
+                    <td>17846</td>
+                    <td>30"</td>
+                    <td>AH (bracket)</td>
+                    <td>3.5 diopter lens</td>
+                </tr>
+                <tr align="center">
+                    <td>17847</td>
+                    <td>30"</td>
+                    <td>FE (base)</td>
+                    <td>3.5 diopter lens</td>
+                </tr>
+                <tr class="alt" align="center">
+                    <td>17841</td>
+                    <td>45"</td>
+                    <td>AH (bracket)</td>
+                    <td>3.5 diopter lens with A/R coating</td>
+                </tr>
+                <tr align="center">
+                    <td>17842</td>
+                    <td>30"</td>
+                    <td>AH (bracket)</td>
+                    <td>3.5 diopter lens with A/R coating</td>
+                </tr>
+                <tr class="alt" align="center">
+                    <td>17843</td>
+                    <td>30"</td>
+                    <td>FE (base)</td>
+                    <td>3.5 diopter lens with A/R coating</td>
+                </tr>
+                <tr align="center">
+                    <td>17900</td>
+                    <td>45"</td>
+                    <td>AH (bracket)</td>
+                    <td>3.5 diopter lens ESD with A/R coating</td>
+                </tr>
+                <tr class="alt" align="center">
+                    <td>17902</td>
+                    <td>30"</td>
+                    <td>AH (bracket)</td>
+                    <td>3.5 diopter lens ESD with A/R coating</td>
+                </tr>
+                <tr align="center">
+                    <td>17904</td>
+                    <td>30"</td>
+                    <td>FE (base)</td>
+                    <td>3.5 diopter lens ESD with A/R coating</td>
+                </tr>
+                <tr class="alt" align="center">
+                    <td>17915BK</td>
+                    <td>45"</td>
+                    <td>AH (bracket)</td>
+                    <td>3.5 diopter lens with UV lightsource</td>
+                </tr>
+                <tr align="center">
+                    <td>17916BK</td>
+                    <td>30"</td>
+                    <td>AH (bracket)</td>
+                    <td>3.5 diopter lens with UV lightsource</td>
+                </tr>
+                <tr class="alt" align="center">
+                    <td>17917BK</td>
+                    <td>30"</td>
+                    <td>FE (base)</td>
+                    <td>3.5 diopter lens with UV lightsource</td>
+                </tr>
+            </table>
+            <br />
+            <p><b>Available Accessory Lenses</b> (sold separately):</p>
+            <ul>
+                <li><b>50074</b> - 4 Diopter Accessory Lens </li>
+                <li><b>50078</b> - 8 Diopter Accessory Lens</li>
+                <li><b>50206</b> - 10 Diopter Swing-Away Lens</li>
+            </ul>
+            <table width="100%">
+                <tr class="alt" align="center">
+                    <td colspan="5"><b>Magnification</b></td>
+                </tr>
+                <tr class="alt" style="font-weight:bold;">
+                    <td>&nbsp;</td>
+                    <td>1.85 X</td>
+                    <td>2.85 X</td>
+                    <td>3.85 X</td>
+                    <td>4.35 X</td>
+                </tr>
+                <tr>
+                    <td><b>Lens Diopter</b></td>
+                    <td>3.5</td>
+                    <td>7.5</td>
+                    <td>11.5</td>
+                    <td>13.5</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Focal Length (inches)</b></td>
+                    <td>11</td>
+                    <td>5.5</td>
+                    <td>3.5</td>
+                    <td>2.9</td>
+                </tr>
+                <tr>
+                    <td><b>Viewing Area (inches)</b></td>
+                    <td>6.75</td>
+                    <td>4</td>
+                    <td>3.125</td>
+                    <td>1.5</td>
+                </tr>
+            </table>
+            <br />
+            <table width="100%">
+                <tr align="center" class="alt">
+                    <td colspan="5"><b>Lens Combination</b></td>
+                </tr>
+                <tr>
+                    <td><b>Primary</b></td>
+                    <td>3.5D</td>
+                    <td>3.5D</td>
+                    <td>3.5D</td>
+                    <td>3.5D</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Secondary</b></td>
+                    <td>-</td>
+                    <td>4D</td>
+                    <td>8D</td>
+                    <td>10D</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;16401 HANDHELD UV MAGNIFIERS</td></tr>
+    <tr>
+        <td align="center"><img src="images/companyContent/luxo/image004.gif" alt="16401 HANDHELD UV MAGNIFIERS" /></td>
+    </tr>
+    <tr>
+        <td valign="top" style="padding: 10,10,10,10;">
+         <p>Perfect for inspection of conformal coatings. Coatings glow brilliantly under UV black illumination, especially when magnified through a five-diopter (2.25x) optical-quality glass lens. Unique combination of (2) 4W UV black bulbs and (2) 4W fluorescent white bulbs is also perfect for inspection of welds, solder joints, flux residues and hairline stress cracks. Additional applications include inspection of surfaces and finishes in fields such as criminology, museum and artwork restorations, document authenticity, leak detection, currency verification and gemstone and mineral inspection. Wide rectangular 4” x 2” viewing area. Color: Grey Luxo</p>
+         <ul>
+            <li>5-Diopter (2.25X)</li>
+            <li>Combination of 2-4W UV black bulbs and 2-4W fluorescent white bulbs</li>
+            <li>Protective lens cover</li>
+            <li>Light weight design</li>
+            <li>Wide rectangular viewing area (4” x 2.5”)</li>
+            <li>10’ cord with plug-in ballast</li>
+            <li>Ideal for inspection</li>
+         </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Intermediate Fluorescent Magnifier</td></tr>
+    <tr>
+        <td><img src="images/companyContent/luxo/image005.gif" alt="Magnifier" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>Medium Duty Illuminated Magnifier with Circular Lens.</p>
+            <p>Features:</p>
+            <ul>
+                <li>New Look</li>
+                <li>Upgraded to sturdy, all steel construction</li>
+                <li>5" diameter lenses in 3-diopter (1.75X) or 5-diopter (2.25X)</li>
+                <li>45" or 30" arm length</li>
+                <li>Clamp or base mount</li>
+                <li>Finish: Light Gray</li>
+                <li>22W circline fluorescent light source, included</li>
+                <li>Expanded model range</li>
+            </ul>
+            <table width="100%">
+                <tr class="alt" align="center" style="font-weight: bold;">
+                    <td>Part #</td>
+                    <td>Mount</td>
+                    <td>Arm Reach</td>
+                    <td>Lens Type</td>
+                </tr>
+                <tr>
+                    <td>16345LG</td>
+                    <td>Clamp</td>
+                    <td>45"</td>
+                    <td>3-diopter</td>
+                </tr>
+                <tr class="alt">
+                    <td>16346LG</td>
+                    <td>Clamp</td>
+                    <td>45"</td>
+                    <td>5-diopter</td>
+                </tr>
+                <tr>
+                    <td>16350LG</td>
+                    <td>Clamp</td>
+                    <td>30"</td>
+                    <td>3-diopter</td>
+                </tr>
+                <tr class="alt">
+                    <td>16352LG</td>
+                    <td>Clamp</td>
+                    <td>30"</td>
+                    <td>5-diopter</td>
+                </tr>
+                <tr>
+                    <td>16351LG</td>
+                    <td>Base</td>
+                    <td>30"</td>
+                    <td>3-diopter</td>
+                </tr>
+                <tr class="alt">
+                    <td>16353LG</td>
+                    <td>Base</td>
+                    <td>30"</td>
+                    <td>5-diopter</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

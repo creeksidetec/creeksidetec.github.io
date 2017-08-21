@@ -1,0 +1,37 @@
+<!--**********************************************************************
+*   Filename: contact.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 01 Mar 2014
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align=center>
+    <tr class="header">
+        <td colspan="4">
+            &nbsp;&nbsp;&nbsp;Main Office
+        </td>
+    </tr>
+    <tr>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td width="25px"><b>Contact:</b></td>
+        <td>Tom O'Riley</td>
+    </tr>
+    <tr>
+        <td class="alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td class="alt" width="25px"><b>Address:</b></td>
+        <td class="alt" width="500px">16 N 3192 E<br />Idaho Falls, ID 83401</td>
+
+    </tr>
+    <tr>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td width="25px"><b>Phone:</b></td>
+        <td>(360) 568-2230</td>
+    </tr>
+    <tr>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td width="25px"><b>Email:</b></td>
+        <td><a href="mailto:tom@creeksidetec.com">tom@creeksidetec.com</a></td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

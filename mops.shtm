@@ -1,0 +1,71 @@
+﻿<!--**********************************************************************
+*   Filename: buckets.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 03 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/micronova/image001.gif" alt="Micronova" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Quick Disconnect MicroMop Adapter </td></tr>
+    <tr>
+        <td><img src="images/companyContent/micronova/image011.jpg" alt="Micronova" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>Polypropylene clamp adapter to hold Micromop and PolyGen series of floor mops. Attaches to SSU series of handles.</p>
+            <ul>
+                <li><b>Product id:</b> QDMH-1</li>
+                <li><b>Material:</b> Polypropylene/Delrin</li>
+                <li><b>Accessories:</b> SSU-1 Stainless Steel Handle, CRM and PG series of mop heads.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Quick Disconnect NovaMop Adapter</td></tr>
+    <tr>
+        <td><img src="images/companyContent/micronova/image009.jpg" alt="Micronova" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>Fits all NovaMop and ErgoMop roller mop heads. Will attach to all SSU series of handles. Autoclavable.</p>
+            <ul>
+                <li><b>Product id:</b> QDNH-1, QDNH-2</li>
+                <li><b>Material:</b> Stainless Steel/Delrin</li>
+                <li><b>Accessories:</b> EM-1, EM-2 ErgoMops, NM-1, NM-2, NM-6 NovaMops, SSU-1 Handle</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;NovaWringer™</td></tr>
+    <tr>
+        <td><img src="images/companyContent/micronova/image010.jpg" alt="Micronova" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>An electropolished stainless steel wringer developed specifically for the NovaMop. Autoclavable.</p>
+            <ul>
+                <li><b>Product id:</b> W-3</li>
+                <li><b>Material:</b> Electropolished Stainless Steel</li>
+                <li><b>Accessories:</b> B-1, B-2, B-3, B-4 Bucket</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Universal Handle</td></tr>
+    <tr>
+        <td><img src="images/companyContent/micronova/image008.jpg" alt="Micronova" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>The key unit for all Micronova mopping systems. The electropolished stainless steel handles have Delrin components giving strong all-around connections and hard-wearing properties. Available in extendible or single length versions. SSU-1 Extendible handle 38"-72" long, SSU-3 extendible handle 62"-120" long, SSU-8 extendible handle 14"-23" long, SSU-2 8" handle, SSU-4 61" handle, SSU-5 37" handle, SSU-6 25" handle, SSU-7 51" handle, SSU-9 12" handle. The entire handle can be autoclaved.</p>
+            <ul>
+                <li><b>Product id:</b> SSU-1, SSU-2, SSU-3, SSU-4, SSU-5, SSU-6, SSU-7, SSU-8, SSU-9</li>
+                <li><b>Material:</b> Electropolished stainless steel/Delrin</li>
+                <li><b>Accessories:</b> All QD- Quick Disconnect adapters. SSA-2/SSA-3 Acme thread adapters.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<br /><br />
+<!--#include file="footer.htm" -->

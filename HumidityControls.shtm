@@ -1,0 +1,79 @@
+<!--#include file="header.htm" -->
+<head>
+	<style type="text/css">
+		.style1
+		{
+			font-weight: normal;
+		}
+	</style>
+</head>
+<br />
+<h3 align="center"><img src="images/companycontent/dehumidifiers/HI-EDryLogo.jpg" alt="HI-E Dry" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td>Dehumidifiers</td>
+	</tr>
+    <tr>
+        <td><a href="#HIE100">HI-E DRY - Model 100</a></td>
+    </tr>
+    <tr>
+        <td><a href="#HIE195">HI-E DRY - Model 195</a></td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="2"><a id="HIE100" />HI-E DRY - Model 100</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img src="images/companyContent/dehumidifiers/HI-EDry100.jpg" alt="HI-E Dry Model 100" />
+        </td>
+        <td style="padding:10,10,10,10;" valign="top">
+			<h4>Features</h4>
+			<ul>
+				<li>Controlled by a dehumidistat with settings from 20 to 80 percent relative humidity and a positive "on" and "off" setting.</li>
+				<li>Contains a blower switch that permits continuous blower operation independent of dehumidification.</li>
+				<li>Portable and provided with four casters.</li>
+				<li>Contains an internal condensate pump capable of lifting condensate 17 feet and 20 feet of condensate hose.</li>
+				<li>Wiring is through a factory installed six foot power cord; 115 volt with ground.</li>
+			</ul>
+        </td>
+    </tr>
+    <tr>
+		<td colspan="2" style="padding:10,10,10,10;" valign="top">
+			<p>HI-E DRY dehumidifiers are designed and built with emphasis on efficiency and durability. Today’s HI-E Dry dehumidifiers remove up to seven pints of water per kilowatt hour, while the industry average remains at only two to three pints. The high-efficiency design of HI-E DRY dehumidifiers offer more than just dramatically reduced utility costs. The larger water removal capacity from a smaller, more efficient refrigeration system eliminates the need for 220 volt circuits in many applications. The smaller refrigeration system allows HI-E DRY dehumidifiers to cost less than other commercial dehumidifiers of equal capacity.<p>
+      <p>The <b>HI-E DRY Model 100</b> high efficiency dehumidifier utilizes refrigeration to cool the incoming air stream below its dew point as it passes through the dehumidification (evaporator) coil. This cooling results in the removal of moisture (latent heat) and reduction in temperature (sensible heat). The cooled and dried air is used to pre-cool the incoming air stream resulting in up to a 200 percent increase in overall efficiency. After the pre-cooling stage the processed air is reheated by passing through the condenser coil. The latent heat removed by the evaporator coil is returned to the air stream at this stage as sensible heat, resulting in an overall temperature increase from the incoming air.</p>
+		</td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="2"><a id="HIE195" />HI-E DRY - Model 195</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img src="images/companyContent/dehumidifiers/HI-EDry195.jpg" alt="HI-E Dry Model 195" />
+        </td>
+        <td style="padding:10,10,10,10;" valign="top">
+			<h4>Features</h4>
+			<ul>
+				<li>Controlled by a dehumidistat with settings from 20 to 80 percent relative humidity and a positive "on" and "off" setting.</li>
+				<li>Contains a blower switch that permits continuous blower operation independent of dehumidification.</li>
+				<li>Portable and provided with four casters.</li>
+				<li>Contains an internal condensate pump capable of lifting condensate 17 feet and 20 feet of condensate hose.</li>
+				<li>Wiring is through a factory installed six foot power cord; 115 volt with ground.</li>
+			</ul>
+      </td>
+    </tr>
+    <tr>
+		<td colspan="2" style="padding:10,10,10,10;" valign="top">
+			<p>HI-E DRY dehumidifiers are designed and built with emphasis on efficiency and durability. Today’s HI-E Dry dehumidifiers remove up to seven pints of water per kilowatt hour, while the industry average remains at only two to three pints. The high-efficiency design of HI-E DRY dehumidifiers offer more than just dramatically reduced utility costs. The larger water removal capacity from a smaller, more efficient refrigeration system eliminates the need for 220 volt circuits in many applications. The smaller refrigeration system allows HI-E DRY dehumidifiers to cost less than other commercial dehumidifiers of equal capacity.</p>
+      <p>The <b>HI-E DRY Model 195</b> high efficiency dehumidifier utilizes refrigeration to cool the incoming air stream below its dew point as it passes through the dehumidification (evaporator) coil. This cooling results in the removal of moisture (latent heat) and reduction in temperature (sensible heat). The cooled and dried air is used to pre-cool the incoming air stream resulting in up to a 200 percent increase in overall efficiency. After the pre-cooling stage the processed air is reheated by passing through the condenser coil. The latent heat removed by the evaporator coil is returned to the air stream at this stage as sensible heat, resulting in an overall temperature increase from the incoming air.</p>
+      </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

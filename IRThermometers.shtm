@@ -1,0 +1,54 @@
+﻿<!--**********************************************************************
+*   Filename: buckets.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 03 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/extech/image001.gif" alt="extech" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="4">&nbsp;&nbsp;&nbsp;Wide Range IR Thermometer with Type K Input</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/extech/image003.jpg" alt="extech" />
+            <b>42515</b>
+        </td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p><b>Measures both non-contact and contact temperature plus stores up to 20 readings.</b></p>
+            <ul>
+                <li>Wide temperature range for IR temperature and type K thermocouple measurements.</li>
+                <li>Automatic emissivity adjustment (for temperatures 212ºF or higher).</li>
+                <li>Memory stores up to 20 readings.</li>
+                <li>Large LCD display with bright backlight for easy-to-read measurements and programming parameters.</li>
+                <li>Adjustable high/low alarm alerts user visually and audibly when temperature exceeds programmed limits.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="4">&nbsp;&nbsp;&nbsp;IR Thermometer with Wireless PC Interface</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/extech/image004.jpg" alt="extech" />
+            <b>42560</b>
+        </td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p><b>Wireless USB interface transmits temperature data to a PC.</b></p>
+            <ul>
+                <li>Wide temperature range from -58° to 1922°F (-50 to 1050 °C).</li>
+                <li>High 30:1 distance to target ratio.</li>
+                <li>Manual or Automatic emissivity using type K probe for accurate measurements on different surfaces.</li>
+                <li>Adjustable high/low alarm alerts user visually and audibly when temperature exceeds programmed limits.</li>
+                <li>Place the meter on the Base station to transmit continuous readings to the remote receiver connected to a PC via USB cable.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

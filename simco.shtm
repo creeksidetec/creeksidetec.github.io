@@ -1,0 +1,106 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/simco/image002.jpg" alt="Simco" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Top Gun</td></tr>
+    <tr>
+        <td><img src="images/companyContent/simco/image003.jpg" alt="Simco" /></td>
+        <td valign="top">
+            <p>Balanced to 0 +/- 15V, the Top Gun features high blow-off force to provide efficient cleaning and rapid static charge decay. A 0.01 micron filter at the exit of the gun ensures the air is clean. The gun body is lightweight but durable. It features a light-touch trigger, making it comfortable even for extended use. All functionality is built into the gun: a flow control valve, a balance adjustment for calibration, and a two level LED which indicates both power and ionization. The gun and cable are static dissipative. A hanger is provided for easy mounting.</p> 
+            Features Include:
+            <ul>
+                <li>Filter at gun exit to ensure clean air</li>
+                <li>Lightweight ergonomic design for user comfort</li>
+                <li>Adjustable airflow control</li>
+                <li>Remote activation of ionization and air flow</li>
+                <li>Ionization verification indicator light</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Aerostat Guardian CR2000</td></tr>
+    <tr>
+        <td><img src="images/companyContent/simco/image005.jpg" alt="Simco" /></td>
+        <td valign="top">
+            <p>The Guardian CR2000 ensures cleanroom compatibility using specially chosen components and materials. All fan and air bearing surfaces are manufactured to insure cleanliness. Fan assemblies are particle-tested to Class 10 (209E; ISO class 4) particle limits. The Guardian CR2000's final assembly, final test, and packaging take place in a Class 100 cleanroom to minimize risk of contamination.</p>
+            Features Include:
+            <ul>
+                <li>Inherently balanced to 0±5 V </li>
+                <li>Ion balance and ion output monitors</li>
+                <li>Lockout key switch</li>
+                <li>Class 10 cleanroom ISO-4 compatible</li>
+                <li>Patented emitter point cleaner</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Aerostat XC Extended Coverage Ionizing Air Blower</td></tr>
+    <tr>
+        <td><img src="images/companyContent/simco/image006.jpg" alt="Simco" /></td>
+        <td valign="top">
+            <p>The XC neutralizes static across an entire 2’ x 6’ benchtop area.</p>
+            Features Include:
+            <ul>
+                <li>Rapid static charge decay</li>
+                <li>Balanced to 0±5 V</li>
+                <li>Patented emitter point cleaner</li>
+                <li>Three-speed fan</li>
+                <li>Ionization statuslight</li>
+                <li>Heater</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Aerostat PC Ionizing Air Blower</td></tr>
+    <tr>
+        <td><img src="images/companyContent/simco/image007.jpg" alt="Simco" /></td>
+        <td valign="top">
+            <p>The Aerostat PC provides optimum protection from the destructive effects of ESD. The PC features an integrated heater for operator comfort.</p>
+            Features include:
+            <ul>
+                <li>Quickly neutralizes static charges</li>
+                <li>Balanced to 0±5 V</li>
+                <li>Patented emitter point cleaner</li>
+                <li>Variable speed fan</li>
+                <li>Ionization indicator</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;FMX-003 Electrostatic FieldMeter</td></tr>
+    <tr>
+        <td><img src="images/companyContent/simco/image008.jpg" alt="Simco" /></td>
+        <td valign="top">
+            <p>SIMCO's Model FMX-003 Electrostatic Fieldmeter is a compact, portable survey instrument for measuring electrostatic charge. The FMX-003 measures positive and negative polarity electrostatic charges to 20 kV (20,000 V) at a distance of one inch (25 mm). Results are simultaneously displayed numerically and in bar graph format. POWER on/off, ZERO adjustment, Ion Balance (IB) and HOLD are all push button operations.</p>
+            <p>Two LED guide ring lights on the measuring side of the unit converge at the proper distance from a test object. The conductive case and ground snap facilitate grounding for accurate measurement. The circuitry of the FMX-003 has been designed to make measurements in areas using air ionization.</p>
+            Features include:
+            <ul>
+                <li>Digital and Bar graph display indicates field polarity and intensity</li>
+                <li>Battery condition display</li>
+                <li>Multi-function audible alarm</li>
+                <li>Easy plate attachment for ion balance measurement</li>
+                <li>Auto shut off after 5 minutes</li>
+                <li>Portable and lightweight</li>
+                <li>Auto-ranging digital display</li>
+                <li>Includes vinyl storage case, ground lead, and battery</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<br /><br />
+<!--#include file="footer.htm" -->

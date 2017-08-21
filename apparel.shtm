@@ -1,0 +1,293 @@
+<!--**********************************************************************
+*   Filename: apparel.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><BR />
+<table class="creekside" align="center">
+    <!-- Coveralls Section -->
+    <tr class="header">
+        <td colspan="4">
+            &nbsp;&nbsp;&nbsp;Coveralls</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/apparel/image001.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image002.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image003.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image004.jpg" class="productImage2" />
+        </td>
+    </tr>
+    <tr class="alt">
+        <td align="center">
+            Environstar CP Coveralls
+        </td>
+        <td align="center">
+            Environstar HCP Coveralls
+        </td>
+        <td align="center">
+            Environstar SMS Coveralls
+        </td>
+        <td align="center">
+            Environstar SPP Coveralls
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/apparel/image005.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image006.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr class="alt">
+        <td align="center">
+            Environstar- SL Coveralls
+        </td>
+        <td align="center">
+            Environstar-MP Coveralls
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <!-- Coats/Gowns/Smock Section -->
+    <tr class="header">
+        <td colspan="4">
+            Coats/Gowns/Smock</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/apparel/image007.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image008.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+            &nbsp;
+        </td>
+        <td align="center">
+            &nbsp;
+        </td>
+    </tr>
+    <tr class="alt">
+        <td align="center">
+            Isolation Gowns
+        </td>
+        <td align="center">
+            Lab Coats
+        </td>
+        <td align="center">
+            &nbsp;
+        </td>
+        <td align="center">
+            &nbsp;
+        </td>
+    </tr>
+    <!-- Scrub Suits Section -->
+    <tr class="header">
+        <td colspan="4">
+            Scrub Suits</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/apparel/image009.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr class="alt">
+        <td align="center">
+            Scrub Suits
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <!-- Bouffant Caps/Face Mask section -->
+    <tr class="header">
+        <td colspan="4">
+            Bouffant Caps/Face Mask</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/apparel/image010.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr class="alt">
+        <td align="center">
+            Bouffant Caps/Face Masks
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <!-- Beard Covers Section -->
+    <tr class="header">
+        <td colspan="4">
+            Beard Covers</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/apparel/image011.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr class="alt">
+        <td align="center">
+            Beard Cover
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <!-- Shoe/Boor Covers Section -->
+    <tr class="header">
+        <td colspan="4">
+            Shoe/Boot Covers</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/apparel/image012.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image013.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image014.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image015.jpg" class="productImage2" />
+        </td>
+    </tr>
+    <tr class="alt">
+        <td align="center">
+            Coated Polypropylene:
+        </td>
+        <td align="center">
+            Heavy PE Disposable Booties:
+        </td>
+        <td align="center">
+            Latex Nuke Booties:
+        </td>
+        <td align="center">
+            Polyethylene/ Polylatex:
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/apparel/image016.jpg" class="productImage2" />
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr class="alt">
+        <td align="center">
+            Polypropylene:
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <!-- Sleeves Section -->
+    <tr class="header">
+        <td colspan="4">
+            Sleeves</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/apparel/image017.jpg" class="productImage3" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image019.jpg" class="productImage3" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image020.jpg" class="productImage3" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image021.jpg" class="productImage3" />
+        </td>
+    </tr>
+    <tr class="alt">
+        <td align="center">
+            Environstar HCP:
+        </td>
+        <td align="center">
+            Environstar MP:
+        </td>
+        <td align="center">
+            Environstar SPP:
+        </td>
+        <td align="center">
+            Polyethylene:
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/apparel/image022.jpg" class="productImage3" />
+        </td>
+        <td align="center">
+            <img src="images/companyContent/apparel/image023.jpg" class="productImage3" />
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr class="alt">
+        <td align="center">
+            Solid Vinyl:
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+</table>
+<br />
+<!-- #include file="footer.htm" -->

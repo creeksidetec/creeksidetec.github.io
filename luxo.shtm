@@ -1,0 +1,32 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/luxo/image001.jpg" alt="Luxo" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;16401 HANDHELD UV MAGNIFIERS</td></tr>
+    <tr>
+        <td align="center"><img src="images/companyContent/luxo/image004.gif" alt="16401 HANDHELD UV MAGNIFIERS" /></td>
+    </tr>
+    <tr>
+        <td valign="top">
+         <p>Perfect for inspection of conformal coatings. Coatings glow brilliantly under UV black illumination, especially when magnified through a five-diopter (2.25x) optical-quality glass lens. Unique combination of (2) 4W UV black bulbs and (2) 4W fluorescent white bulbs is also perfect for inspection of welds, solder joints, flux residues and hairline stress cracks. Additional applications include inspection of surfaces and finishes in fields such as criminology, museum and artwork restorations, document authenticity, leak detection, currency verification and gemstone and mineral inspection. Wide rectangular 4” x 2” viewing area. Color: Grey Luxo</p>
+            <br />
+         <ul>
+            <li>5-Diopter (2.25X)</li>
+            <li>Combination of 2-4W UV black bulbs and 2-4W fluorescent white bulbs</li>
+            <li>Protective lens cover</li>
+            <li>Light weight design</li>
+            <li>Wide rectangular viewing area (4” x 2.5”)</li>
+            <li>10’ cord with plug-in ballast</li>
+            <li>Ideal for inspection</li>
+         </ul>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

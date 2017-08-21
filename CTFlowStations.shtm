@@ -1,0 +1,63 @@
+﻿<!--**********************************************************************
+*   Filename: buckets.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 03 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Flow Stations</td></tr>
+    <tr>
+        <td valign="top">
+            <p>All Stations are available in Vertical or Horizontal flow</p>
+            <table width="100%">
+                <tr class="alt" style="font-weight: bold;">
+                    <td>Stainless Steel</td>
+                    <td>Lamiante</td>
+                    <td>Plastic</td>
+                </tr>
+                <tr>
+                    <td>Solid</td>
+                    <td>Radius Front Edge</td>
+                    <td>ABS</td>
+                </tr>
+                <tr class="alt">
+                    <td>Brushed #3 Finish</td>
+                    <td>Rolled Front Edge</td>
+                    <td>Poly</td>
+                </tr>
+                <tr>
+                    <td>Electro polished</td>
+                    <td>ESD</td>
+                    <td></td>
+                </tr>
+                <tr class="alt">
+                    <td>Perforated</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+            <br />
+            <table width="100%">
+                <tr class="alt" align="center" style="font-weight: bold;">
+                    <td>6 ft with flow thru lights<br />SS top and power strip</td>
+                    <td>4 ft Mini system</td>
+                </tr>
+                <tr align="center">
+                    <td><img src="images/companyContent/CTFlowStations/image006.jpg" alt="CTFlowStations" /></td>
+                    <td><img src="images/companyContent/CTFlowStations/image008.gif" alt="CTFlowStations" /></td>
+                </tr>
+                <tr class="alt" align="center" style="font-weight: bold;">
+                    <td>5 ft Custom Isolation Frame</td>
+                    <td>6 ft Down Draft Table</td>
+                </tr>
+                <tr align="center">
+                    <td><img src="images/companyContent/CTFlowStations/image010.jpg" alt="CTFlowStations" /></td>
+                    <td><img src="images/companyContent/CTFlowStations/image012.jpg" alt="CTFlowStations" /></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

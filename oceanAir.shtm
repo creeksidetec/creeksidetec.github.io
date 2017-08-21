@@ -1,0 +1,194 @@
+<!--**********************************************************************
+*   Filename: oceanAir.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<BR /><BR />
+<table border=0 cellpadding=0 cellspacing=0 width="650px" align=center>
+<tr>
+    <td>
+    <img src="./images/companyContent/oceanAir/oceanAirLogoLarge.jpg">
+   </td>
+</tr>
+    <tr>
+        <td align="left">
+            <img src="./images/companyContent/oceanAir/typeHeaderAll.jpg">
+        </td>
+    </tr>
+</table>
+<br />
+<table width="650px" class="creekside" align=center>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;AirBoss (PAC6012 5 Ton Air Cooled Unit)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./images/companyContent/oceanAir/airBoss.jpg">
+        </td>
+        <td valign=top>
+            <br /><b>Capacities from 10,100 through 60,050 BTU's.</b>
+            <br>
+            Convenient, space-saving, quiet, high efficiency units provide powerful cooling directly to 
+            the area where it is needed. <br />Simply ROLL… into place, PLUG-IN… the power chord, ATTACH… any 
+            accessories, and enjoy comfortable cooling… IN MINUTES! 
+            <br><br>
+            <table border="0" cellpadding="0" cellspacing="0" class="creekside">
+                <tr class="header">
+                    <td colspan="2">&nbsp;&nbsp;&nbsp;AirBoss Standard Features</td>
+                </tr>
+                <tr>
+                    <td width="50%" valign="top">
+                        <ul>
+                            <li>High Efficiency Rotary or Scroll Compressor</li>
+                            <li>Commercial Grade Steerable Casters</li>
+                            <li>Washable Air Filters</li>
+                            <li>Condensate pump on 5-Ton AirBoss</li>
+                            <li>24 Volt Control System</li>
+                            <li>Automatic re-start after loss of power</li>
+                            <li>Optional Drop-in Nozzles</li>
+                            <li>Can Easily Remote locate thermostat</li>
+                            <li>Schrader valves for service & Testing</li>
+                            <li>Made in U.S.A.</li>
+                        </ul>
+                    </td>
+                    <td width="50%" valign="top">
+                        <ul>
+                            <li>Rifled Copper Tube, Enhanced Fin Coils</li>
+                            <li>Manual Reset High Pressure Switch</li>
+                            <li>5-Gallon Condensate Tank AutoShut-off</li>
+                            <li>Electronic Thermostat</li>
+                            <li>Pitched Drain Pan (ASHRAE 62-89)</li>
+                            <li>Available in 460/3 and 575/3</li>
+                            <li>Optional Duct Adapters</li>
+                            <li>10 foot power cords</li>
+                            <li>5-year compressor warranty</li>
+                            <li>Cools to 60° F</li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+        </table>
+    <br />
+<table width="650px" class="creekside" align=center>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;ArcticAire (2OAC6012 Cooling only 5-ton air conditioner)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./images/companyContent/oceanAir/arcticAire.jpg">
+        </td>
+        <td valign=top>
+            <br />
+            <b>Capacities from 13,500 through 60,000 BTU's. </b>
+            <br>
+            Convenient, space saving, ultra quiet, high efficiency powerful cooling delivered directly 
+            to the area that needs it. <br />Just ROLL...into place, PLUG-IN.... the power cord, ATTACH....any 
+            accessories and enjoy cooling IN MINUTES! 
+            <br><br>
+                        <table border="0" cellpadding="0" cellspacing="0" class="creekside">
+                <tr class="header">
+                    <td colspan="2">&nbsp;&nbsp;&nbsp;ArcticAire Standard Features</td>
+                </tr>
+                <tr>
+                    <td width="50%" valign="top">
+                        <ul>
+                            <li>High efficiency compressors</li>
+                            <li>Quiet reverse curved blowers</li>
+                            <li>Hour meter records operating time</li>
+                            <li>Rifled tube enhanced fin coils</li>
+                            <li>Moisture Control Mode reduces humidity</li>
+                            <li>Schrader valves for service & testing</li>
+                            <li>Washable air filters</li>
+                            <li>Dedicated evap and cond blowers</li>
+                            <li>Heavy duty steerable casters</li>
+                            <li>U.L.Listed for safety</li>
+                         </ul>
+                    </td>
+                    <td width="50%" valign="top">
+                        <ul>
+                            <li>Lower thermostat setpoint to 55°F</li>
+                            <li>6-speed evaporator blower</li>
+                            <li>Available in 230/3, 460/3 and 575/3</li>
+                            <li>Can remote mount thermostat</li>
+                            <li>10 foot power supply cord</li>
+                            <li>High Pressure safety switch (man. reset)</li>
+                            <li>Pitched Drain pan (ASHRAE 62-89)</li>
+                            <li>Compact size</li>
+                            <li>Full line of accessories available</li>
+                            <li>Made in U.S.A.</li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    </table>
+    <br />
+<table width="650px" class="creekside" align=center>
+        <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;Accessories
+        </td>
+    </tr>
+    <tr>
+        <td align=center valign=middle>
+            <img src="./images/companyContent/oceanAir/controler.jpg">
+        </td>
+        <td valign=top>
+            <br />
+            Our micro computer control system handles more than just temperature.<br /> 
+            It also controls motor speeds, operation modes, displays and hours of operation.<br />
+            Remote mount versions are also available.
+        </td>
+    </tr>
+    <tr>
+        <td align=center valign=middle>
+            <img src="./images/companyContent/oceanAir/blower.jpg">
+        </td>
+        <td valign=top>
+            <br />
+            Ultra quiet,reverse curved motorizedimpellers are the latest technology.<br />
+            High efficiency, low power draw, they are used in both the evaporator and condenser sections.<br />
+            High reliability, there are no belts, shafts, set screws or pulleys that can cause problems in 
+            conventional blowers.
+        </td>
+    </tr>
+    <tr>
+        <td align=center valign=middle>
+            <img src="./images/companyContent/oceanAir/compressor.gif">
+        </td>
+        <td valign=top>
+            <br />
+            Scroll Compressors are used 3-Ton and 5-Ton units.<br />
+            Rotary Compressors are used on all 2-Ton and smaller units.
+        </td>
+    </tr>
+    <tr>
+        <td align=center valign=middle>
+            <img src="./images/companyContent/oceanAir/thermostat.gif">
+        </td>
+        <td valign=top>
+            <br />
+            24 Volt non-programmable electronic thermostat provides accurate and simplified control.<br />
+            Unit will automatically restart to set temperature, in case of power failure.
+        </td>
+    </tr>
+    <tr>
+        <td align=center valign=middle>
+            <img src="./images/companyContent/oceanAir/panel.gif">
+        </td>
+        <td valign=top>
+            <br />
+            Ceiling panel kit for condenser air discharge through drop ceiling applications.
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

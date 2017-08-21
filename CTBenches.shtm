@@ -1,0 +1,30 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;E.S.D. - CLEAN ROOM - MODULAR - LABORATORY</td></tr>
+    <tr>
+        <td><img src="images/companyContent/CTBenches/image004.jpg" alt="CTBenches" /></td>
+        <td><img src="images/companyContent/CTBenches/image006.jpg" alt="CTBenches" /></td>
+        <td><img src="images/companyContent/CTBenches/image008.jpg" alt="CTBenches" /></td>
+    </tr>
+    <tr class="alt">
+        <td colspan="3" style="padding: 10,10,10,10;">Our Workstations feature Quality Construction and Design Simplicity in a Fully Welded Frame Bench. Choose from Three (3) basic  frame styles and add options to meet your specific needs ---</td>
+    </tr>
+    <tr><td colspan="3" align="center"><img src="images/companyContent/CTBenches/image009.gif" alt="CTBenches" /></td></tr>
+    <tr class="header"><td colspan="3">Standard Sizes (Inches)</td></tr>
+    <tr class="alt" align="center"><td><b>Width</b></td><td><b>Length</b></td><td><b>Height</b></td></tr>
+    <tr align="center"><td>30</td><td>48</td><td>30</td></tr>
+    <tr class="alt" align="center"><td>32</td><td>60</td><td>32</td></tr>
+    <tr align="center"><td>34</td><td>72</td><td>34</td></tr>
+    <tr class="alt" align="center"><td>36</td><td>84</td><td>35</td></tr>
+    <tr align="center"><td>48</td><td>96</td><td>36</td></tr>
+    <tr class="alt" align="center"><td colspan="3">Order any combination of the above. Other sizes available upon request. Knock Down Benches Also Available</td></tr>
+    <tr><td colspan="3" align="center"><img src="images/companyContent/CTBenches/image011.jpg" alt="CTBenches" /></td></tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

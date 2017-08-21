@@ -1,0 +1,116 @@
+<!--**********************************************************************
+*   Filename: accuseal.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<div align=center><img src="./images/companyLogos/accuSealLogo.jpg"></div>
+<bR />
+<table class="creekside" width="650px" align=center>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;MODEL 630CH
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./images/companyContent/accuseal/model630ch.jpg">
+        </td>
+        <td>
+            <b>VALIDATABLE CONSTANT HEAT SEALER</b>
+            <br>
+            Seals up to 50 tyvek pouches per minute! Available in 8", 15", 20", and 25" platten
+            lengths. Provides full digital temperature control through PID with +/-1 degree
+            accuracy
+        </td>
+    </tr>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;Model 730
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./images/companyContent/accuseal/model730.png">
+        </td>
+        <td>
+            <b>MEDICAL SEALER</b>
+            <br>
+            Take control of your Medical Packaging program with the fully featured 730. Closed
+            loop pressure control, programmable seal recipes, operator lock-out and more. Optional
+            Ethernet Data Acquisition System.
+        </td>
+    </tr>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;Model 635HP
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./images/companyContent/accuseal/model635hp.jpg">
+        </td>
+        <td>
+            <b>VALIDATABLE MEDICAL GAS_VAC SEALER</b>
+            <br>
+            The 635HP is specifically designed for sealing the toughest medical pouch materials
+            and meeting the needs for precise vacuum and gas-vacuum control in the medical industry.
+            <br><br><a href="documentation/accuseal/635 HP Medical Sealer M635.pdf" target="_blank">Details</a>
+        </td>
+    </tr>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;Model 635
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./images/companyContent/accuseal/model635.png">
+        </td>
+        <td>
+            <b>GAS VACUUM SEALER</b>
+            <br>
+            Fully validatable with digital vacuum level control for sealing the most delicate
+            Tissue and Medical devices. Available with high pressure seal jaw for sealing difficult
+            materials.
+            <br><br><a href="documentation/accuseal/Vacuum Sealer 635.pdf" target="_blank">Details</a>
+        </td>
+    </tr>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;Model 630
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./images/companyContent/accuseal/model630.png">
+        </td>
+        <td>
+            <b>MEDICAL SEALER</b>
+            <br>
+            This sealer provides all the features you need to make your sealer an integral part
+            of your Medical product validation process at an affordable price.
+            <br><br><a href="documentation/accuseal/Medical SealerM630.pdf" target="_blank">Details</a>
+        </td>
+    </tr>
+    <tr class="header">
+        <td colspan="3">
+            &nbsp;&nbsp;&nbsp;Model 530 & 540
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./images/companyContent/accuseal/model530-540.png">
+        </td>
+        <td>
+            <b>TABLE TOP SEALER</b>
+            <br>
+            With this table top sealer you get "The Perfect Seal" every time and absolute process
+            control for validation.
+            <br><br><a href="documentation/accuseal/Medical SealerM530.pdf" target="_blank">Details</a>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

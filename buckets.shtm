@@ -1,0 +1,42 @@
+﻿<!--**********************************************************************
+*   Filename: buckets.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 03 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/micronova/image001.gif" alt="Micronova" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Round Bucket 44 Quart</td></tr>
+    <tr>
+        <td><img src="images/companyContent/micronova/image002.jpg" alt="Micronova" /></td>
+        <td valign="top">
+            <ul>
+                <li>A stainless steel round bucket with a 44 quart capacity and 3" casters. Autoclavable</li>
+                <li><b>Product id:</b> B-11A </li>
+                <li><b>Material:</b> Stainless Steel</li>
+                <li><b>Accessories:</b> W-6 Wringer</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Stainless Steel Buckets – 32 Quart Round</td></tr>
+    <tr>
+        <td><img src="images/companyContent/micronova/image003.jpg" alt="Micronova" /></td>
+        <td valign="top">
+            <br />
+            <ul>
+                <li>This round stainless steel bucket has a polished interior and 2" casters. With a 32 quart capacity the bucket is fashioned from one piece of stainless steel - leak free and easy to sanitize. B3A is fully autoclavable.</li>
+                <li><b>Product id:</b> B-3, B-3A</li>
+                <li><b>Material:</b> Stainless Steel</li>
+                <li><b>Accessories:</b> W-6 Downward Press Wringer, W-4 MegaWringer</li>
+                <li><b>Application:</b> Floors, Walls</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

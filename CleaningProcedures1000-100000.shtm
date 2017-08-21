@@ -1,0 +1,62 @@
+<!--**********************************************************************
+*   Filename: CleaningProcedures-1000-100000.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 25 Sep 2006
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table border="0" width="90%" align="center">
+    <tr>
+        <td align="left"><h3>Cleanroom Cleaning Procedures Class 1,000 thru 100,000</h3></td>
+    </tr>
+</table>
+<table class="creekside" align="center" width="90%">
+    <tr class="header">
+        <td colspan="4">
+            &nbsp;&nbsp;&nbsp;Daily
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Wipe down all work surfaces with approved cleaner and CR wipes</li>
+                <li>Service Tacky mats</li>
+                <li>Replace Gowning stocks</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="90%">
+    <tr class="header">
+        <td colspan="4">
+            &nbsp;&nbsp;&nbsp;Weekly
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Vacuum floors</li>
+                <li>Roll or wipe down walls</li>
+                <li>Wipe down Ceiling Grid and Tiles</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="90%">
+    <tr class="header">
+        <td colspan="4">
+            &nbsp;&nbsp;&nbsp;Monthly
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Wash down Ceiling Walls and Floors with approved cleaner and CR wipes and mop</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

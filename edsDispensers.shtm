@@ -1,0 +1,27 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;EDS2002</td></tr>
+    <tr>
+        <td><img src="images/companyContent/edsyn/dispensers/image001.jpg" alt="CTDispensers" /></td>
+        <td valign="top">
+         <p>This model includes a foot for ease of activation, syringe stand, 5cc and 10 cc Standard syringe adapter, 5 cc and 10 cc barrels and a needle sample assortment</p>
+            <br />
+            EDS2002 Features
+         <ul>
+            <li>Digital Dispensing Accuracy for most fluid materials</li>
+            <li>Timer adjusts from 0.01 — 30 seconds</li>
+            <li>Vacuum Pullback feature to avoid drips</li>
+            <li>Pressure adjustment from 1-100 psi</li>
+            <li>Additional accessory port</li>
+         </ul>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

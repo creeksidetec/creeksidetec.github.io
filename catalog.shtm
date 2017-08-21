@@ -1,0 +1,340 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br />
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td width="50%" colspan="2">
+			&nbsp;&nbsp;&nbsp;Bonding
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="http://www.emiuv.com" target="_blank">Chemistry</a>
+		</td>
+		<td width="50%">
+			<a href="edsDispensers.shtm">Dispensers</a>
+		</td>
+	</tr>
+	<tr class="alt">
+		<td width="50%">
+			<a href="edsyn.shtm">Soldering</a>
+		</td>
+		<td width="50%">
+			<a href="http://www.lescouv.com/" target="_blank">UV Light Sources</a>
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Cleaning Equipment and Supplies
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="Buckets.shtm">Buckets</a>
+		</td>
+		<td width="50%">
+			<a href="cleaningCarts.shtm">Carts</a>
+		</td>
+	</tr>
+	<tr class="alt">
+		<td width="50%">
+			<a href="cleaningSolutions.shtm">Cleaning Solutions</a>
+		</td>
+		<td width="50%">
+			<a href="tigerVac.shtm">Vacume Cleaners</a>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="mops.shtm">Mops</a>
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Cleanroom Supplies
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="apparel.shtm">Clothing</a>
+		</td>
+		<td width="50%">
+			<a href="chemicals.shtm">Chemicals</a>
+		</td>
+	</tr>
+	<tr class="alt">
+		<td width="50%">
+			<a href="CTDispensers.shtm">Dispensers</a>
+		</td>
+		<td width="50%">
+			<a href="gloves.shtm">Gloves</a>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="CTMats.shtm">Mats</a>
+		</td>
+		<td width="50%">
+			<a href="texwipe.shtm">Wipes</a>
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Cleanroom Systems
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="http://www.simplexstripdoors.com" target="_blank">Custom</a>
+		</td>
+		<td width="50%">
+			<a href="CTFlowStations.shtm">Flow Stations</a>
+		</td>
+	</tr>
+	<tr class="alt">
+		<td width="50%">
+			<a href="http://www.simplexstripdoors.com" target="_blank">Modular</a>
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Environmental Controls
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="oceanAir.shtm">Temperature</a>
+		</td>
+		<td width="50%">
+			<a href="humiditycontrols.shtm">Humidity</a>
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Ergonomics
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="bevco.shtm">Chairs</a>
+		</td>
+		<td width="50%">
+			<a href="toolBalancers.shtm">Tool Balancers</a>
+		</td>
+	</tr>
+	<tr class="alt">
+		<td width="50%">
+			<a href="toolStands.shtm">Tool Stands</a>
+		</td>
+		<td width="50%">
+			<a href="CTbenches.shtm">Work Stations</a>
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Fume Extraction
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="negativePressure.shtm">Negative Pressure Systems</a>
+		</td>
+		<td width="50%">
+			<a href="pointOfUse.shtm">Point of use</a>
+		</td>
+	</tr>
+	<tr class="alt">
+		<td width="50%">
+			<a href="standAloneFumeExtraction.shtm">Stand alone</a>
+		</td>
+		<td width="50%">
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Hand Tools
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			Dirvers
+		</td>
+		<td width="50%">
+			Robots
+		</td>
+	</tr>
+	<tr class="alt">
+		<td width="50%">
+			<a href="screwFeeders.shtm">Screw Feeders</a>
+		</td>
+		<td width="50%">
+			<a href="tapeDespensers.shtm">Tape Despensers</a>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="torqueTesters.shtm">Torque Testers</a>
+		</td>
+		<td width="50%">
+			<a href="tronex.shtm">Cutters / Pliers</a>
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Inspection
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="magnifiers.shtm">Magnifiers</a>
+		</td>
+		<td width="50%">
+			<a href="http://www.advancedmicroscope.com/" target="_blank">Microscopes</a>
+		</td>
+	</tr>
+	<tr class="alt">
+		<td width="50%">
+			<a href="http://www.advancedmicroscope.com/" target="_blank">Video Systems</a>
+		</td>
+		<td width="50%">
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Instrumentation
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="CTFlowMeters.shtm">Flow Meters</a>
+		</td>
+		<td width="50%">
+			<a href="extech.shtm">Humidity Meter</a>
+		</td>
+	</tr>
+	<tr class="alt">
+		<td width="50%">
+			<a href="particalcounters.shtm">Particle Counters</a>
+		</td>
+		<td width="50%">
+			<a href="IRThermometers.shtm">IR Thermometer</a>
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Packaging
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			Bags
+		</td>
+		<td width="50%">
+			Containers
+		</td>
+	</tr>
+	<tr class="alt">
+		<td width="50%">
+			<a href="accuseal.shtm">Heat Sealers</a>
+		</td>
+		<td width="50%">
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Static / ESD Control
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="staticTech.shtm">Grounding Supplies</a>
+		</td>
+		<td width="50%">
+			<a href="simco.shtm">Ionizers</a>
+		</td>
+	</tr>
+	<tr class="alt">
+		<td width="50%">
+			<a href="esdmonitors.shtm">Monitors</a>
+		</td>
+		<td width="50%">
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Storage Systems
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			Wire Racks
+		</td>
+		<td width="50%">
+			Carts
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Ultrasonic Cleaning and Electropolishing
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<a href="http://www.esmainc.com" target="_blank">Ultrasonic Cleaning and Electropolishing</a>
+		</td>
+		<td widsth="50%">
+		</td>
+	</tr>
+</table>
+<br />
+<br />
+<br />
+<!--#include file="footer.htm" -->

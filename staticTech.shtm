@@ -1,0 +1,95 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/staticTech/image002.jpg" alt="staticTech" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Dual Layer Rubber Work Surface Mat</td></tr>
+    <tr>
+        <td><img src="images/companyContent/staticTech/image010.jpg" alt="staticTech" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+         <p>&nbsp;&nbsp;&nbsp;This rubber matting has an easy-to-clean, pebbled surface. The mat's surface resistivity and resistance-to-ground values are in the 106 to 108 (< 1 x 109) ohms range; providing safe, effective dissipation of static charges and meeting ESD Association Guidelines. The dual layer rubber mat's effectiveness and durability provide outstanding long-term value.</p>
+         <ul>
+            <li>Embossed finish for easy cleaning</li>
+            <li>Resistant to hot solder</li>
+            <li>Chemical resistant</li>
+            <li>Available in dark blue or grey</li>
+            <li>Conductive layer for effective dissipation</li>
+         </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;3 Layer Vinyl Work Surface Mat</td></tr>
+    <tr>
+        <td><img src="images/companyContent/staticTech/image012.jpg" alt="staticTech" /></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+         <p>&nbsp;&nbsp;&nbsp;These three layer vinyl mats provide excellent ESD protection at a low cost. The top layer is a dissipative vinyl with an easy-to-clean embossed texture. The foamed bottom vinyl layer is also dissipative. A buried conductive layer ensures good resistance-to-ground values. Overall thickness is 0.125".</p>
+         <ul>
+            <li>Cushioned for comfort and device protection</li>
+            <li>Dissipative top and bottom layers</li>
+            <li>Available in light blue or grey</li>
+            <li>Conductive layer for dependable dissipation</li>
+         </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Dense Vinyl Tray Mat Work Surface Mat</td></tr>
+    <tr>
+        <td></td>
+        <td valign="top" style="padding: 10,10,10,10;">
+         <p>&nbsp;&nbsp;&nbsp;This economical rugged vinyl is twice as dense as our cushioned three layer material. The material was originally developed for tray lining where its toughness and non-skid properties were required. It's durability, low cost and effective dissipation (includes a buried conductive layer) have led to its use in other applications such as table mats.</p>
+         <ul>
+            <li>Rugged 0.060" dense vinyl</li>
+            <li>Dissipative surface protects against rapid discharge  Keeps pc boards from sliding.</li>
+            <li>Economical  & effective table mat</li>
+            <li>SM-3001 mat (16-1/4" x 24" with round corners) fits many transport systems standard tray sizes</li>
+         </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;FM-7000 SERIES FLOOR MAT</td></tr>
+    <tr>
+        <td align="center">
+            <img src="images/companyContent/staticTech/image016.jpg" alt="staticTech" />
+            <b>Runner System</b><br />
+            FM-7006 (top)<br />
+            FM-7005 (middle)<br />
+            FM-7006 (bottom)<br />
+        </td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>&nbsp;&nbsp;&nbsp;This durable rubber mat is heat and chemical resistant. FM-7000 is available as an interlocking 3' wide runner system or as a stand alone 2' x 3' mat. The molded rubber has beveled edges to reduce tripping hazards common with floor mats. Surface resistivity is less than 9 x 105 ohms/sq.</p>
+            <ul>
+                <li>Rugged Molded Conductive SBR Rubber</li>
+                <li>Available as 2' x 3' Stand-alone Mat Or Interlocking Runner System.</li>
+                <li>1/2" Thick Mat With Beveled Edges</li>
+            </ul>
+            <table width="100%">
+                <tr>
+                    <td colspan="2"><b>Deck Plate Surface Texture</b></td>
+                </tr>
+                <tr>
+                    <td rowspan="3"><img src="images/companyContent/staticTech/image014.jpg" alt="staticTech" /></td>
+                    <td><b>FM-7000</b> - 2' x 3' floor mat with one 10mm snap - beveled 4 sides</td>
+                </tr>
+                <tr>
+                    <td><b>FM-7005</b> - 2' x 3' center section with one 10mm snap - beveled both two 2' sides</td>
+                </tr>
+                <tr>
+                    <td><b>FM-7006</b> - 2' x 3' end section with one 10mm snap - beveled both two 2' sides and one 3' side</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

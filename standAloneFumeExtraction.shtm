@@ -1,0 +1,138 @@
+﻿<!--**********************************************************************
+*   Filename: buckets.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 03 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/sas/image001.jpg" alt="sas" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="4">&nbsp;&nbsp;&nbsp;300 Portable Floor Sentry Portable Fume Extractor</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img src="images/companyContent/sas/image003.jpg" alt="sas" />
+        </td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>&nbsp;&nbsp;&nbsp;The Portable Floor Sentry <b>Portable Fume Extractor</b> combines mobility and easy setup to provide an excellent choice for workspace environments where clean air is desired.</p>
+            <p>&nbsp;&nbsp;&nbsp;The self-supporting flex and powerful fan combined with a variety of HEPA filter and Activated Carbon filter provide strong suction through the hood inlet. Typical uses may include soldering, powder filling, light grinding dust, light welding fumes and a variety of applications involving chemical fumes.</p>
+            <p>&nbsp;&nbsp;&nbsp;This <b>Portable Fume Extractor</b> can provide an effective and economical solution for many commercial, medical, laboratory and industrial applications.</p>
+            <table>
+                <tr class="alt">
+                    <td><b>Cabinet Dimensions:</b></td>
+                    <td>13" L x 13" W x 16" H</td>
+                </tr>
+                <tr>
+                    <td><b>Arm Dimensions:</b></td>
+                    <td>6" Round - 58" Long w/ 12" x 12" Hood</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Weight:</b></td>
+                    <td>40 lbs.</td>
+                </tr>
+                <tr>
+                    <td><b>Cabinet Material:</b></td>
+                    <td>16 ga. carbon steel w/ polyester epoxy coating on all surfaces</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Motor:</b></td>
+                    <td>Fractional Horsepower, TEFC</td>
+                </tr>
+                <tr>
+                    <td><b>Air Volume:</b></td>
+                    <td>350 CFM (High) to 50 CFM (Low) - Variable Speed Controlled</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Electrical:</b></td>
+                    <td>115/1/60, Approx. 2 amps</td>
+                </tr>
+                <tr>
+                    <td><b>Sound Level:</b></td>
+                    <td>61 to 66 dba (Blower Speed: Low to High)</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Warranty:</b></td>
+                    <td>Limited one-year warranty from date of shipment on defects due to materials or workmanship.</td>
+                </tr>
+                <tr>
+                    <td><b>Patented Design:</b></td>
+                    <td>U.S. PATENT #5,843,197</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="4">&nbsp;&nbsp;&nbsp;400 SERIES High Flow Portable Floor Sentry</td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img src="images/companyContent/sas/image004.jpg" alt="sas" />
+        </td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>&nbsp;&nbsp;&nbsp;The patented fan/filter assembly provides strong suction at the extractor inlet providing source capture for many. The modular design and sturdy construction make it a solid solution for almost any industrial environment applications. All SAS Units combine small size, quiet operation, convenient mobility, and high efficiency filtration to provide an excellent choice for areas where clean air is desired.</p>
+            <p>Standard Features and Benefits:</p>
+            <ul>
+                <li>Self Supporting Flex Arm</li>
+                <li>Variable Speed Controller</li>
+                <li>Lightweight & Compact Size</li>
+                <li>Chemically Resistant</li>
+                <li>Heavy-Duty Casters</li>
+                <li>High Efficiency Hepa Filtration</li>
+                <li>Heavy-Duty Carbon Filtration</li>
+            </ul>
+            <p>Typical uses may include:</p>
+            <ul>
+                <li>Powder & Dust Control</li>
+                <li>Fume Control</li>
+                <li>Laboratories</li>
+                <li>Clean Room Environments</li>
+                <li>and many more...</li>
+            </ul>
+            <table>
+                <tr class="alt">
+                    <td><b>Cabinet Dimensions:</b></td>
+                    <td>20" D x 20" W x 14" H</td>
+                </tr>
+                <tr>
+                    <td><b>Weight:</b></td>
+                    <td>50 lbs to 100 lbs. (Depends on Filter Media Used)</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Cabinet Material:</b></td>
+                    <td>16 ga. carbon steel</td>
+                </tr>
+                <tr>
+                    <td><b>Motor:</b></td>
+                    <td>Fractional Horsepower, TEFC</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Air Volume:</b></td>
+                    <td>Pre-Filter & 99.97% Hepa Filter - 700 CFM <br />Pre-Filter & Heavy-Duty Carbon Filter - 400 CFM</td>
+                </tr>
+                <tr>
+                    <td><b>Electrical:</b></td>
+                    <td>115/1/60, 2.4 amps</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Sound Level:</b></td>
+                    <td>Approx. 60 dba @ 3'</td>
+                </tr>
+                <tr>
+                    <td><b>Warranty:</b></td>
+                    <td>Limited one-year warranty from date of shipment on defects due to materials or workmanship.</td>
+                </tr>
+                <tr class="alt">
+                    <td><b>Patented Design:</b></td>
+                    <td>U.S. PATENT #5,843,197</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

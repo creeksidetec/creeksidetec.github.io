@@ -1,0 +1,327 @@
+﻿<!--**********************************************************************
+*   Filename: CTFlowMeters.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 09 Feb 2008
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br />
+<br />
+<div align="center">
+	<img src="./images/companyContent/tronex/logo.jpg"></div>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="6">
+			&nbsp;&nbsp;&nbsp;Standard
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="6">
+			<p>Standard cutters, sometimes called diagonal cutters, have heads with simple geometry: oval or taper. Oval designs are stronger; taper designs permit greater access. Standard cutters with full relief have lower profiles than cutters with semi-relief. 80% of all applications for precision hand cutting tools are best met with a standard cutter.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./images/companyContent/tronex/standard-oval.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/standard-taper.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/standard-miniatureoval.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/standard-miniaturetaperrelief.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/standard-largeoval.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/standard-extralargeoval.jpg">
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			Oval
+		</td>
+		<td>
+			Taper
+		</td>
+		<td>
+			Miniature Oval
+		</td>
+		<td>
+			Miniature Taper Relief
+		</td>
+		<td>
+			Large Oval
+		</td>
+		<td>
+			Extra Large Oval
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="6">
+			&nbsp;&nbsp;&nbsp;Angulated
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="6">
+			<p>Most precision hand cutting tools have cutting edges at a 15 to 20 degree angle so that there is clearance for the operator's fingers on the handles. However a much greater angle may be desired when access to the object being cut is very limited or when the work area is very crowded. Tronex offers angulated cutters at different angles and with different cutting edge sizes to meet a wide variety of needs.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./images/companyContent/tronex/angulated-miniature50.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/angulated-small50.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/angulated-large50.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/angulated-large50pointed.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/angulated-small70.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/angulated-miniature90.jpg">
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			Miniature 50&ordm;
+		</td>
+		<td>
+			Small 50&ordm;
+		</td>
+		<td>
+			Large 50&ordm;
+		</td>
+		<td>
+			Large 50&ordm; Pointed
+		</td>
+		<td>
+			Small 70&ordm;
+		</td>
+		<td>
+			Miniature 90&ordm;
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="4">
+			&nbsp;&nbsp;&nbsp;Tip
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="4">
+			<p>Tip cutters are cutting tools with long, narrow jaws that have small, exceptionally sharp edges for cutting at the very tip. All Tronex tip cutters have long jaws for extended reach. Some Tronex tip cutters have lower profiles or have ultra fine cutting tips.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./images/companyContent/tronex/tip-miniaturehighrelief.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/tip-small.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/tip-subminiature.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/tip-rugged.jpg">
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			Miniature High Relief
+		</td>
+		<td>
+			Small
+		</td>
+		<td>
+			Sub Miniature
+		</td>
+		<td>
+			Rugged
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="4">
+			&nbsp;&nbsp;&nbsp;Fine Hard Wire - Class W Cutters
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./images/companyContent/tronex/fine-classw-miniatureoval.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/fine-classw-miniaturetaperrelief.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/fine-classw-50thin.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/fine-classw-50wide.jpg">
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			Miniature Oval
+		</td>
+		<td>
+			Miniature Taper Relief
+		</td>
+		<td>
+			50&ordm; Thin
+		</td>
+		<td>
+			50&ordm; Wide
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="3">
+			&nbsp;&nbsp;&nbsp;Fine Hard Wire - Class T Cutters
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./images/companyContent/tronex/fine-classt-oval.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/fine-classt-taper.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/fine-classt-50.jpg">
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			Oval
+		</td>
+		<td>
+			Taper
+		</td>
+		<td>
+			50&ordm;
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="3">
+			&nbsp;&nbsp;&nbsp;Other Cutters
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./images/companyContent/tronex/other-90standoff.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/other-45standoff.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/other-heavyduty.jpg">
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			90&ordm; Standoff
+		</td>
+		<td>
+			45&ordm; Standoff
+		</td>
+		<td>
+			Heavy Duty
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="6">
+			&nbsp;&nbsp;&nbsp;Pliers
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="6">
+			<p>All Tronex plier models share two characteristics:</p>
+			<ol>
+				<li>A superior jaw in design and craftmanship.</li>
+				<li>The bearing ring joint that is featured with all Tronex precision cutters.</li>
+			</ol>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./images/companyContent/tronex/pliers-chainnose.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/pliers-chainnoseshortjaw.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/pliers-needlenose.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/pliers-roundnose.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/pliers-roundnoseshortjaw.jpg">
+		</td>
+		<td>
+			<img src="./images/companyContent/tronex/pliers-flatnose.jpg">
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			Chain Nose
+		</td>
+		<td>
+			Chain Nose Short Jaw
+		</td>
+		<td>
+			Needle Nose
+		</td>
+		<td>
+			Round Nose
+		</td>
+		<td>
+			Round Nose Short Jaw
+		</td>
+		<td>
+			Flat Nose
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./images/companyContent/tronex/pliers-bentnose.jpg">
+		</td>
+		<td colspan="5">
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			Bent Nose
+		</td>
+		<td colspan="5"></td>
+	</tr>
+</table>
+<br />
+<br />
+<br />
+<!--#include file="footer.htm" -->

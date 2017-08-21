@@ -1,0 +1,54 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br />
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header">
+        <td colspan="4">&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <img src="images/companyContent/sentryair/image002.jpg" alt="sentryair" />
+        </td>
+        <td valign="top" style="padding: 10,10,10,10;">
+            <p>If you are looking for effective, affordable and efficient control for smoke, fumes and dust particles the Flex Sentry™ is the system you need. It's flexible design and sturdy construction make it a solid solution for your laboratory, manufacturing or soldering needs.</p>
+            <p>The available wall and table mounts add to its versatility along with direct duct connections for most solvent vapors. Custom lengths are available upon request.</p>
+            <table width="100%">
+                <tr class="alt">
+                    <td colspan="2"><b>Specifications</b></td>
+                </tr>
+                <tr>
+                    <td nowrap>Arm Dimensions</td>
+                    <td>3" Round x 33" Long (5" Round Hood)</td>
+                </tr>
+                <tr class="alt">
+                    <td>Weight</td>
+                    <td>1 lb.</td>
+                </tr>
+                <tr>
+                    <td>Material</td>
+                    <td>Substantially Constructed of Polypropolyne and ABS Plastic.</td>
+                </tr>
+                <tr class="alt">
+                    <td>Bend Radius</td>
+                    <td>7"</td>
+                </tr>
+                <tr>
+                    <td>Capture Zone</td>
+                    <td>4" to 7" from face of hood.</td>
+                </tr>
+                <tr class="alt">
+                    <td>Warranty</td>
+                    <td>Limited 1 year warranty from date of shipment on defects due to materials or workmanship.</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br />
+<br />
+<!--#include file="footer.htm" -->

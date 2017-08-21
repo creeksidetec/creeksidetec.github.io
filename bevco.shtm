@@ -1,0 +1,56 @@
+﻿<!--**********************************************************************
+*   Filename: bevco.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 28 Nov 2007
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/bevco/image002.jpg" alt="Bevco" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;5000 CR/ECR</td></tr>
+    <tr>
+        <td><img src="images/companyContent/bevco/image003.jpg" alt="Bevco" /></td>
+        <td valign="top">
+            <ul>
+                <li>Certified Class 10 Cleanroom and ESD/Cleanroom models</li>
+                <li>Exceeds ANSI/BIFMA* standards</li>
+                <li>12-year guarantee</li>
+            </ul>
+            <ul>
+            <li>Heavy-duty dual wheel casters for hard floors.</li>
+            <li>Hard plastic dual wheel casters for carpeted areas.</li>
+            <li>“02” Control with separate levers for seat and back tilt. (Specify model with “02” option, ie: 5502)</li>
+            <li>Additional lumbar back support. (LBS)</li>
+            <li>Ergonomic adjustable armrests with polyurethane arm pads.</li>
+            <li>Larger 20” diameter adjustable chrome foot ring for models 5300, 5301,5500 and 5501.</li>
+            <li>Larger ergonomic seat. (20”W, 18”D, 3” Thick)</li>
+            <li>Larger backrest. (17 1/2”W, 19”H, 4” Thick)</li>
+            <li>Customized options available.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;4000 CR/ECR</td></tr>
+    <tr>
+        <td><img src="images/companyContent/bevco/image004.jpg" alt="Bevco" /></td>
+        <td valign="top">
+            <br />
+            <ul>
+                <li>Certified Class 10 Cleanroom and ESD/Cleanroom models</li>
+                <li>Exceeds ANSI/BIFMA* standards</li>
+                <li>12-year guarantee</li>
+            </ul>
+            <ul>
+                <li>Heavy-duty dual wheel casters for hard floors.</li>
+                <li>Hard plastic dual wheel casters for carpeted areas.</li>
+                <li>Larger 20” diameter adjustable chrome footring for Models 4500 and 4501.</li>
+                <li>Mushroom glides for Models 4200, 4201, 4600 and 4601 (add 1” to seat heights).</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

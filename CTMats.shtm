@@ -1,0 +1,64 @@
+﻿<!--**********************************************************************
+*   Filename: CTMats.shtm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 28 Nov 2007
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;CT Mats - The first step to something better</td></tr>
+    <tr>
+        <td><img src="images/companyContent/CTMats/image001.jpg" alt="CTMats" /></td>
+        <td valign="top">
+            <p>CT mats are the newest, most advanced clean-room mat to be introduced to the market. The superior quality of CT clean-room mats is the result of over 15 years of experience and expertise in the development and manufacturing of clean-room mats combined with the latest technology and equipment in the industry.</p>
+            <p>The multi-layered mat removes dirt and dust from foot traffic and equipment wheels prior to their entry into a clean or controlled environment. Each numbered layer is fully coated with a particle grabbing adhesive. Once the top layer is saturated, a quick and easy removal of that layer exposes the next layer and returns the mat to maximum efficiency.</p>
+            <br />
+        </td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="alt">
+        <td><img src="images/companyContent/CTMats/image002.jpg" width="645px" alt="CTMats" /></td>
+    </tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;CT Mats - Standard Sizes and Colors</td></tr>
+    <tr class="alt">
+        <td><b>Size</b></td>
+        <td><b>Color</b></td>
+        <td><b>Packaging</b></td>
+    </tr>
+    <tr>
+        <td>18" x 36"</td><td>White/Gray/Blue</td><td>30 Layer - 8 or 4 mats/case   60 Layer - 4 mats/case</td>
+    </tr>
+    <tr class="alt">
+        <td>24" x 36"</td><td>White/Gray/Blue</td><td>30 Layer - 8 or 4 mats/case   60 Layer - 4 mats/case</td>
+    </tr>
+    <tr>
+        <td>18" x 45"</td><td>White/Gray/Blue</td><td>30 Layer - 8 or 4 mats/case   60 Layer - 4 mats/case</td>
+    </tr>
+    <tr class="alt">
+        <td>26" x 45"</td><td>White/Gray/Blue</td><td>30 Layer - 8 or 4 mats/case   60 Layer - 4 mats/case</td>
+    </tr>
+    <tr>
+        <td>36" x 36"</td><td>White/Gray/Blue</td><td>30 Layer - 8 or 4 mats/case   60 Layer - 4 mats/case</td>
+    </tr>
+    <tr class="alt">
+        <td>36" x 45"</td><td>White/Gray/Blue</td><td>30 Layer - 8 or 4 mats/case   60 Layer - 4 mats/case</td>
+    </tr>
+    <tr>
+        <td>36" x 60"</td><td>White/Gray/Blue</td><td>30 Layer - 8 or 4 mats/case   60 Layer - <span style="color: Red">Not available</span></td>
+    </tr>
+    <tr class="alt"><td colspan="3"><b>Custom packaging and sizes available</b></td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Standard colors</td></tr>
+    <tr class="alt">
+        <td><img src="images/companyContent/CTMats/image003.jpg" alt="CTMats" /></td>
+    </tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->

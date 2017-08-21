@@ -1,0 +1,449 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<table align="center" width="650px">
+	<tr>
+		<td class="documentation" colspan="2">
+			<br />
+			<b>Working for you, evaluating your requirements, and recommending cost-effective and leading-edge solutions for your unique environments for Contamination-Control, Static-Control, Ergonomics and more. We want to EARN your business each day.</b><br />
+			<br />
+		</td>
+	</tr>
+</table>
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Equipment and Supplies
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<a href="accuseal.shtm"><b>Accu-Seal:</b></a>&nbsp;&nbsp;&nbsp;Heat/Vacuum Sealing Equip, Pneumatic, with optional Nitrogen/Gas Purge<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>AK Ltd:</b>&nbsp;&nbsp;&nbsp;Custom Acrylic Dispensers, Bins & Enclosures. Clear or Colored Plastic<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Air Guard:</b>&nbsp;&nbsp;&nbsp;Motorized HEPA/ULPA Filtered Fan Units, HEPA or ULPA Filters, Pre-Filtration<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<a href="http://www.advancedmicroscope.com/" target="_blank"><b>AMG (Advanced Microscopy Group):</b></a>&nbsp;&nbsp;&nbsp; A division of Westover Scientific, Inc., Microscopes and Video Inspection Systems<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<a href="apparel.shtm"><b>Apparel:</b></a>&nbsp;&nbsp;&nbsp;Reusable & Disposable: Hoods, Coveralls, Frocks, Facemasks, Shoe Cover, Bouffant.<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Berkshire:</b>&nbsp;&nbsp;&nbsp;Cleanroom wipers, swabs, photocopy paper, facemasks, glove liners<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Biofit:</b>&nbsp;&nbsp;&nbsp;Class 1 - 100k Cleanroom Seating. STD or ESD, Industrial Seating, Stools<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Bulbtronics:</b>&nbsp;&nbsp;&nbsp;Specialty Light Bulbs; Scientific, Medical, UV, IR, General Lighting & Batteries<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Channel Systems:</b>&nbsp;&nbsp;&nbsp;Aluminum & Powder coated Steel Ceiling Grids, Wall Panels, and Doors<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Cleanroom Lighting:</b>&nbsp;&nbsp;&nbsp;Cleanroom Ceiling Light Fixtures. Drop-In or Flow-Thru, Tear drop<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Custom Products:</b>&nbsp;&nbsp;&nbsp;Fabricator of Steel, Metal, and Polycarbonate<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Dexon:</b>&nbsp;&nbsp;&nbsp;Laminar Flow Benches & Hoods, HEPA & ULPA Filtered Hoods & Ceiling Modules<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Eagle:</b>&nbsp;&nbsp;&nbsp;Wire shelving, Carts, Tables & Racks-Chrome or Stainless Steel. Electro polished.<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<a href="edsyn.shtm"><b>Edsyn:</b></a>&nbsp;&nbsp;&nbsp;Soldering Stations.<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Fluke:</b>&nbsp;&nbsp;&nbsp;Test equipment and Process Tools<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>EXTECH:</b>&nbsp;&nbsp;&nbsp;Instruments MultiMeters, Clamp-on Meters, Sound and Light Meters, Thermometers, Air-flow Meters<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<a href="gloves.shtm"><b>Gloves:</b></a>&nbsp;&nbsp;&nbsp;SAFESKIN, QRP, MONTGOMERY, PERFECT FIT, OAK, Clean room Latex, Nitrile, Nylon, Acid, Conductive, Solvent, Finger cots, glove liners<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Hioki:</b>&nbsp;&nbsp;&nbsp;Electrical measuring instruments, Safety Test Instruments, Hi-Pot, Ground Test<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>HEPA Corp:</b>&nbsp;&nbsp;&nbsp;Custom & Std ULPA, HEPA & ASHRAE Air Filters.<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>LA-Lighting:</b>&nbsp;&nbsp;&nbsp;Lighting Products for controlled enviorments<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Liberty Ind:</b>&nbsp;&nbsp;&nbsp;Air Showers, Shoe Brush Machines, Softwall Cleanrooms, LAF Benches<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Packaging:</b>&nbsp;&nbsp;&nbsp;Cleanroom Packaging, Cleanroom Films, Custom Packaging<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>MGN International:</b>&nbsp;&nbsp;&nbsp;Particle Counters, RION, ARTI, Airborne/Liquid, Remote Sensor Systems<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Micronova:</b>&nbsp;&nbsp;&nbsp;Wipes, Mops, Buckets, Sponges, Extension Tools, Swabs, Chemicals, Tapes<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<a href="oceanAir.shtm"><b>OceanAire:</b></a>&nbsp;&nbsp;&nbsp;Portable HVAC<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>PortaFab:</b>&nbsp;&nbsp;&nbsp;Cleanroom Wall Systems. Extruded Aluminum Channels w/Laminated Panels.<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Purus:</b>&nbsp;&nbsp;&nbsp;Contamination Control Sticky Mats for Cleanroom entry<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Ray Products:</b>&nbsp;&nbsp;&nbsp;Std & ESD Acrylic Dessicators, Pass-Thru's & Custom Enclosures. Glove Boxes<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Raytek:</b>&nbsp;&nbsp;&nbsp;Portable Infrared Thermometers<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Chemicals:</b>&nbsp;&nbsp;&nbsp;Chemical Testing Solutions, Acids, Buffers, Alcohols, DI Water<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>SCE:</b>&nbsp;&nbsp;&nbsp;Chemical-Safe laboratory furnishings, Polypropylene & Stainless Steel Cabinets, Carts<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Simco:</b>&nbsp;&nbsp;&nbsp;Air Ionizers: Room Ionization, Pulse Bars, Meters, Charge Plate Analyzers<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Simplex:</b>&nbsp;&nbsp;&nbsp;Softwall Cleanrooms. Airlock Enclosures. Vinyl Softwalls. Strip Doors<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<a href="tigerVac.shtm"><b>Tiger-Vac:</b></a>&nbsp;&nbsp;&nbsp;Portable ULPA/HEPA Filtered Vacuums. Wet/Dry, Aluminum or SS. Micro Tools<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<a href="texwipe.shtm"><b>Texwipe:</b></a>&nbsp;&nbsp;&nbsp;Cleaning Wipes<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<a href="tronex.shtm"><b>Tronex:</b></a>&nbsp;&nbsp;&nbsp;Precision Handtools<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Veltek:</b>&nbsp;&nbsp;&nbsp;Sterile Alcohol, Sterile Disinfectants, Sterile Cleaners, Sterility Testers, PDA<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>White Container:</b>&nbsp;&nbsp;&nbsp;Stainless Steel or Enamel Painted Waste Containers<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>World Class Press:</b>&nbsp;&nbsp;&nbsp;Cleanroom Paper, Notebooks, Pads
+		</td>
+	</tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+	<tr class="header">
+		<td colspan="2">
+			&nbsp;&nbsp;&nbsp;Static Control - Ergonomic - Industrial
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>ACL:</b>&nbsp;&nbsp;&nbsp;Staticide Anti-Static Sprays, Floor Waxes, Wipes & Cleaners, Meters, Presaturated Wipes.<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Biofit Chairs:</b>&nbsp;&nbsp;&nbsp;ESD & STD Task Chairs & Stools. Vinyl or Cloth<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>ErgoMat:</b>&nbsp;&nbsp;&nbsp;Anti-fatigue Mats. Std & Conductive, Chemical resistant, Nitrile<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>ESD Systems:</b>&nbsp;&nbsp;&nbsp;Ionizers for all types of critical manufacturing processes<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>EXAIR:</b>&nbsp;&nbsp;&nbsp;Compressed air products, Cold air guns, Cabinet coolers, Air knives, Static eliminators<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Liberty Packaging:</b>&nbsp;&nbsp;&nbsp;Static Shielding & Antistatic Packaging<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Lista, Arlink, Ergomation:</b>&nbsp;&nbsp;&nbsp;Work Benches, Storage Cabinets, Shelving Storage Systems, Carts, Ergonomic Height Adjustable Workstations, Electric or Manual, Parts Racks, Carts<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>MFG:</b>&nbsp;&nbsp;&nbsp;Molded Fiberglass Totes & Trays<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Monroe:</b>&nbsp;&nbsp;&nbsp;Electro-Static Field & Volt meters. Resistance Meters<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Nilfisk:</b>&nbsp;&nbsp;&nbsp;Industrial Vacuums, Wet/Dry, and Dust Collection<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Simco: Air Ionizing:</b>&nbsp;&nbsp;&nbsp;Blowers, Room Systems, Bars, Guns, Nozzles, Web Cleaners<br />
+		</td>
+	</tr>
+	<tr class="alt">
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Static Tech:</b>&nbsp;&nbsp;&nbsp;ESD Control Supplies, Table & Floor Mats, Wrist & Foots straps, and Meters<br />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td>
+			<b>Static Control Components:</b>&nbsp;&nbsp;&nbsp;ESD Control Supplies, Bags, Instrumentation, and Meters<br />
+		</td>
+	</tr>
+</table>
+<br />
+<br />
+<!--#include file="footer.htm" -->

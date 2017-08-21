@@ -1,0 +1,119 @@
+﻿<!--**********************************************************************
+*   Filename: productLines.htm
+*   Programer: Chris Potter support@creeksidetec.com
+*   Last Modified: 29 Dec 2005
+***********************************************************************-->
+<!--#include file="header.htm" -->
+<br /><br />
+<h3 align="center"><img src="images/companyContent/texwipe/image001.gif" alt="Texwipe" /></h3>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Vectra® Alpha® 10</td></tr>
+    <tr class="alt"><td rowspan="3"><img src="images/companyContent/texwipe/image002.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX1010</td><td>Alpha® 10 9" x 9" (23 cm x 23 cm) nominal</td><td>100 wipers/bag 2 inner bags of 50 wipers 10 bags/case</td></tr>
+    <tr><td>TX1012</td><td>Alpha® 10* 12" x 12" (31 cm x 31 cm) nominal</td><td>100 wipers/bag double-bagged 10 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;VECTRA® Honeycomb® 10</td></tr>
+    <tr class="alt"><td rowspan="2"><img src="images/companyContent/texwipe/image006.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX1060</td><td>Vectra® Honeycomb® 10 9" x 9" (23 cm x 23 cm) nominal</td><td>100 wipers/bag 2 inner bags of 50 wipers 10 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;VECTRA® AlphaSorb® 10</td></tr>
+    <tr class="alt"><td rowspan="3"><img src="images/companyContent/texwipe/image008.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX1050</td><td>AlphaSorb® 10 9" x 9" (23 cm x 23 cm) nominal</td><td>100 wipers/bag 2 inner bags of 50 wipers 10 bags/case</td></tr>
+    <tr><td>TX1052</td><td>AlphaSorb® 10* 12" x 12" (31 cm x 31 cm) nominal</td><td>100 wipers/bag 2 inner bags of 50 wipers 10 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;ALPHAWIPE®</td></tr>
+    <tr class="alt"><td rowspan="5"><img src="images/companyContent/texwipe/image010.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX1003</td><td>AlphaWipe® 11" x 12" (28 cm x 31 cm) nominal</td><td>250 wipers/bag 2 inner bags of 125 random-packed wipers 6 bags/case</td></tr>
+    <tr><td>TX1004</td><td>AlphaWipe® 4" x 4" (10 cm x 10 cm) nominal</td><td>300 wipers/bag 2 inner bags of 150 wipers 20 bags/case</td></tr>
+    <tr><td>TX1009</td><td>AlphaWipe®* 9" x 9" (23 cm x 23 cm) nominal</td><td>150 wipers/bag 2 inner bags of 75 wipers 10 bags/case</td></tr>
+    <tr><td>TX1013</td><td>AlphaWipe® 12" x 12" (31 cm x 31 cm) nominal</td><td>75 wipers/bag double bagged 10 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;AlphaLite®</td></tr>
+    <tr class="alt"><td rowspan="2"><img src="images/companyContent/texwipe/image012.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX1008</td><td>AlphaLite® 9" x 9" (23 cm x 23 cm)</td><td>150 wipers/bag double-bagged 6 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;MiracleWipe®</td></tr>
+    <tr class="alt"><td rowspan="5"><img src="images/companyContent/texwipe/image014.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX4004</td><td>MiracleWipe® 4" x 4" (10 cm x 10 cm)</td><td>600 wipers/bag 4 inner bags of 150 wipers 8 bags/case</td></tr>
+    <tr><td>TX4009</td><td>MiracleWipe® 9" x 9" (23 cm x 23 cm)</td><td>150 wipers/bag 3 inner bags of 50 wipers 8 bags/case</td></tr>
+    <tr><td>TX4012</td><td>MiracleWipe® 10" x 12" (25 cm x 31 cm)</td><td>200 wipers/bag 4 inner bags of 50 wipers 4 bags/case</td></tr>
+    <tr><td>TX4018</td><td>MiracleWipe® 14" x 18" (36 cm x 46 cm)</td><td>100 wipers/bag 2 inner bags of 50 wipers 4 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Technicloth®</td></tr>
+    <tr class="alt"><td rowspan="5"><img src="images/companyContent/texwipe/image016.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX604</td><td>TechniCloth® 4" x 4" (10 cm x 10 cm)</td><td>1,200 wipers/bag 4 inner bags of 300 wipers 10 bags/case</td></tr>
+    <tr><td>TX606</td><td>TechniCloth® 4" x 4" (10 cm x 10 cm)</td><td>600 wipers/bag 2 inner bags of 300 wipers 10 bags/case</td></tr>
+    <tr><td>TX609</td><td>TechniCloth® 9" x 9" (23 cm x 23 cm)</td><td>300 wipers/bag double-bagged 10 bags/case</td></tr>
+    <tr><td>TX612</td><td>TechniCloth®* 12" x 12" (31 cm x 31 cm)</td><td>150 wipers/bag double-bagged 10 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;TechniCloth® II</td></tr>
+    <tr class="alt"><td rowspan="4"><img src="images/companyContent/texwipe/image017.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX1109</td><td>TechniCloth® II 9" x 9" (23 cm x 23 cm)</td><td>300 wipers/bag double-bagged 10 bags/case</td></tr>
+    <tr><td>TX1112</td><td>TechniCloth® II 12" x 12" (31 cm x 31 cm)</td><td>150 wipers/bag double-bagged 10 bags/case</td></tr>
+    <tr><td>TX1118</td><td>TechniCloth® II 18" x 18" (46 cm x 46 cm)</td><td>75 wipers/bag double-bagged 10 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;TECHNICLOTH® III</td></tr>
+    <tr class="alt"><td rowspan="3"><img src="images/companyContent/texwipe/image019.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX2209</td><td>TechniCloth® III 9" x 9" (23 cm x 23 cm)</td><td>300 wipers/bag double-bagged 10 bags/case</td></tr>
+    <tr><td>TX2212</td><td>TechniCloth® III 12" x 12" (31 cm x 31 cm)</td><td>150 wipers/bag double-bagged 10 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;Absorbond®</td></tr>
+    <tr class="alt"><td rowspan="3"><img src="images/companyContent/texwipe/image020.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX2412</td><td>AlphaSorb® HC* 12" x 12" (31 cm x 31 cm)</td><td>100 wipers/bag 2 inner bags of 50 wipers 6 bags/case</td></tr>
+    <tr><td>TX2418</td><td>AlphaSorb® HC 18" x 18" (46 cm x 46 cm)</td><td>100 wipers/bag 2 inner bags of 50 wipers 3 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;BlueWipe®</td></tr>
+    <tr class="alt"><td rowspan="2"><img src="images/companyContent/texwipe/image021.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX512</td><td>BlueWipe® 12" x 12" (31 cm x 31 cm)</td><td>50 wipers/bag 10 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;FABWIPE®</td></tr>
+    <tr class="alt"><td rowspan="2"><img src="images/companyContent/texwipe/image022.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX3009</td><td>FabWipe® 9" x 9" (23 cm x 23 cm)</td><td>100 wipers/bag 2 inner bags of 50 wipers 10 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;BETAWIPE®</td></tr>
+    <tr class="alt"><td rowspan="2"><img src="images/companyContent/texwipe/image023.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX2009</td><td>BlueWipe® 12" x 12" (31 cm x 31 cm)</td><td>50 wipers/bag 10 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;TEXWIPE®</td></tr>
+    <tr class="alt"><td rowspan="6"><img src="images/companyContent/texwipe/image024.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX304</td><td>TexWipe® 4" x 4" (10 cm x 10 cm)</td><td>1,200 wipers/bag 4 inner bags of 300 wipers 10 bags/case</td></tr>
+    <tr><td>TX306</td><td>TexWipe® 6" x 6" (15 cm x 15 cm)</td><td>600 wipers/bag 2 inner bags of 300 wipers 10 bags/case</td></tr>
+    <tr><td>TX309</td><td>TexWipe® 9" x 9" (23 cm x 23 cm)</td><td>300 wipers/bag 2 inner bags of 150 wipers 10 bags/case</td></tr>
+    <tr><td>TX312</td><td>TexWipe® 12" x 12" (31 cm x 31 cm)</td><td>150 wipers/bag double-bagged 10 bags/case</td></tr>
+    <tr><td>TX318</td><td>TexWipe® 17" x 17" (43 cm x 43 cm)</td><td>75 wipers/bag double-bagged 10 bags/case</td></tr>
+</table>
+<br />
+<table class="creekside" align="center" width="650px">
+    <tr class="header"><td colspan="4">&nbsp;&nbsp;&nbsp;CleanCotton®</td></tr>
+    <tr class="alt"><td rowspan="2"><img src="images/companyContent/texwipe/image026.jpg" alt="Texwipe" /></td><td>TX number</td><td>Description</td><td>Packaging</td></tr>
+    <tr><td>TX1020</td><td>CleanCotton™ 9" x 9" (23 cm x 23 cm)</td><td>100 wipers/bag 10 bags/case</td></tr>
+</table>
+<br /><br />
+<!--#include file="footer.htm" -->
