@@ -1,9 +1,7 @@
-<!--**********************************************************************
-*   Filename: accuseal.htm
-*   Programer: Chris Potter support@creeksidetec.com
-*   Last Modified: 29 Dec 2005
-***********************************************************************-->
-<!--#include file="header.htm" -->
+---
+layout: default
+title: Accuseal
+---
 <br /><br />
 <div align=center><img src="./images/companyLogos/accuSealLogo.jpg"></div>
 <bR />
@@ -113,4 +111,3 @@
     </tr>
 </table>
 <br /><br />
-<!--#include file="footer.htm" -->
